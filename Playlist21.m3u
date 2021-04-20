@@ -2,30 +2,6 @@
 #EXTINF:0,Камера Площадь
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.5:9100/amvr1
-#EXTINF:0,1+1
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/1plus1_ua/video.m3u8
-#EXTINF:0,ICTV
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/ictv_ua/video.m3u8
-#EXTINF:0,СТБ
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/ctb_ua/video.m3u8
-#EXTINF:0,Интер
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/inter_ua/video.m3u8
-#EXTINF:0,Новый канал
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/novikanal_ua/video.m3u8
-#EXTINF:0,2+2
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/2plus2_ua/video.m3u8
-#EXTINF:0,Украина 24
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/ukraina24_ua/video.m3u8
-#EXTINF:0,24
-#EXTGRP:Инфоразвлекательные
-http://o.yablo.tv:80/live/u.66760.caa78bedbf527eee3a0a8bc6132c5b8698/24_ua/video.m3u8
 #EXTINF:0 tvg-name="Euronews" tvg-shift="-0" , Euronews
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.4:9110/Euronews/index.m3u8
