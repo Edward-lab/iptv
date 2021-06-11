@@ -10,3 +10,7 @@ http://s2.playep.pro/content/stream/films/mayans.mc.s03e01.1080p.rus.lostfilm.tv
 #EXTINF:-1,Маянцы с.3,2с
 #EXTGRP:Сериалы
 http://s2.playep.pro/content/stream/films/mayans.mc.s03e02.1080p.rus.lostfilm.tv_257036/hls/index.m3u8
+#EXTM3U
+#EXTINF:-1,Маянцы с.3,3с
+#EXTGRP:Сериалы
+http://s4.playep.pro/content/stream/films/mayans.mc.s03e03.1080p.rus.lostfilm.tv_258312/hls/index.m3u8
