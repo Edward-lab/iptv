@@ -2,3 +2,7 @@
 #EXTINF:-1,Никто
 #EXTGRP:Кино
 https://814-3f4-2100g0.streamalloha.live/hs/38/1623446021/KTh-H53rMA9yUQMm8WJsGQ/949/431949/4/index-f1-v1-f5-a1.m3u8
+#EXTM3U
+#EXTINF:-1,Маянцы с.3,1с.
+#EXTGRP:Сериалы
+http://s2.playep.pro/content/stream/films/mayans.mc.s03e01.1080p.rus.lostfilm.tv_256997/hls/720/index.m3u8
