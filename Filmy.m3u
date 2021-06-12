@@ -1,16 +1,31 @@
 #EXTM3U
-#EXTINF:-1,Никто
-#EXTGRP:Кино
-https://814-3f4-2100g0.streamalloha.live/hs/38/1623446021/KTh-H53rMA9yUQMm8WJsGQ/949/431949/4/index-f1-v1-f5-a1.m3u8
-#EXTM3U
 #EXTINF:-1,Маянцы с.3,1с.
 #EXTGRP:Сериалы
 http://s2.playep.pro/content/stream/films/mayans.mc.s03e01.1080p.rus.lostfilm.tv_256997/hls/720/index.m3u8
-#EXTM3U
 #EXTINF:-1,Маянцы с.3,2с
 #EXTGRP:Сериалы
 http://s2.playep.pro/content/stream/films/mayans.mc.s03e02.1080p.rus.lostfilm.tv_257036/hls/index.m3u8
-#EXTM3U
 #EXTINF:-1,Маянцы с.3,3с
 #EXTGRP:Сериалы
 http://s4.playep.pro/content/stream/films/mayans.mc.s03e03.1080p.rus.lostfilm.tv_258312/hls/index.m3u8
+#EXTINF:-1,Маянцы с.3,4с.
+#EXTGRP:Сериалы
+http://s22.playep.pro/content/stream/films/mayans.mc.s03e04.1080p.rus.lostfilm.tv_260247/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,5с.
+#EXTGRP:Сериалы
+http://s16.playep.pro/content/stream/films/mayans.mc.s03e05.1080p.rus.lostfilm.tv_261505/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,6с.
+#EXTGRP:Сериалы
+http://s4.playep.pro/content/stream/films/mayans.mc.s03e06.720p.rus.lostfilm.tv_262793/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,7с.
+#EXTGRP:Сериалы
+http://s3.playep.pro/content/stream/films/mayans.mc.s03e07.720p.rus.lostfilm.tv_263953/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,8с.
+#EXTGRP:Сериалы
+http://s3.playep.pro/content/stream/films/mayans.mc.s03e08.720p.rus.lostfilm.tv_265634/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,9с.
+#EXTGRP:Сериалы
+http://s22.playep.pro/content/stream/films/mayans.mc.s03e09.1080p.rus.lostfilm.tv_266887/hls/720/index.m3u8
+#EXTINF:-1,Маянцы с.3,10с.
+#EXTGRP:Сериалы
+http://s3.playep.pro/content/stream/films/mayans.mc.s03e10.1080p.rus.lostfilm.tv_268448/hls/720/index.m3u8
