@@ -358,3 +358,12 @@ http://31.131.136.4:9105/telekafe/index.m3u8
 #EXTINF: 0 tvg-name = "Radio Rocks" tvg-shift = "- 0", Radio Rocks
 #EXTGRP: Радио
 https://www.radioroks.ua/RadioROKS.m3u
+#EXTINF: 0 tvg-name = "Radio Relax" tvg-shift = "- 0", Radio Relax
+#EXTGRP: Радио
+https://www.radiorelax.ua/RadioRelax.m3u
+#EXTINF: 0 tvg-name = "Хіт FM" tvg-shift = "- 0", Хіт FM
+#EXTGRP: Радио
+https://www.hitfm.ua/HitFM.m3u
+#EXTINF: 0 tvg-name = "Radio Jazz" tvg-shift = "- 0", Radio Jazz
+#EXTGRP: Радио
+https://www.radiojazz.ua/RadioJazz.m3u
