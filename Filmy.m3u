@@ -1,31 +1,56 @@
 #EXTM3U
-#EXTINF:-1,Маянцы с.3,1с.
-#EXTGRP:Маянцы
-http://s2.playep.pro/content/stream/films/mayans.mc.s03e01.1080p.rus.lostfilm.tv_256997/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,2с
-#EXTGRP:Маянцы
-http://s2.playep.pro/content/stream/films/mayans.mc.s03e02.1080p.rus.lostfilm.tv_257036/hls/index.m3u8
-#EXTINF:-1,Маянцы с.3,3с
-#EXTGRP:Маянцы
-http://s4.playep.pro/content/stream/films/mayans.mc.s03e03.1080p.rus.lostfilm.tv_258312/hls/index.m3u8
-#EXTINF:-1,Маянцы с.3,4с.
-#EXTGRP:Маянцы
-http://s22.playep.pro/content/stream/films/mayans.mc.s03e04.1080p.rus.lostfilm.tv_260247/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,5с.
-#EXTGRP:Маянцы
-http://s16.playep.pro/content/stream/films/mayans.mc.s03e05.1080p.rus.lostfilm.tv_261505/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,6с.
-#EXTGRP:Маянцы
-http://s4.playep.pro/content/stream/films/mayans.mc.s03e06.720p.rus.lostfilm.tv_262793/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,7с.
-#EXTGRP:Маянцы
-http://s3.playep.pro/content/stream/films/mayans.mc.s03e07.720p.rus.lostfilm.tv_263953/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,8с.
-#EXTGRP:Маянцы
-http://s3.playep.pro/content/stream/films/mayans.mc.s03e08.720p.rus.lostfilm.tv_265634/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,9с.
-#EXTGRP:Маянцы
-http://s22.playep.pro/content/stream/films/mayans.mc.s03e09.1080p.rus.lostfilm.tv_266887/hls/720/index.m3u8
-#EXTINF:-1,Маянцы с.3,10с.
-#EXTGRP:Маянцы
-http://s3.playep.pro/content/stream/films/mayans.mc.s03e10.1080p.rus.lostfilm.tv_268448/hls/720/index.m3u8
+#EXTINF:-1, 1с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e01.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 2с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e02.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 3с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e03.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 4с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e04.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 5с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e05.1080p.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 6с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e06.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 7с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e07.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+#EXTINF:-1, 8с.
+#EXTGRP:Шестой отряд 1сез
+http://s4.playep.pro/content/stream/films/six.s01e08.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
+
+#EXTINF:-1, 1с.
+#EXTGRP:Шестой отряд 2сез
+http://s8.playep.pro/content/stream/films/six.s02e01.1080p.rus.lostfilm.tv_66828/hls/720/index.m3u8
+#EXTINF:-1, 2с.
+#EXTGRP:Шестой отряд 2сез
+http://s8.playep.pro/content/stream/films/six.s02e02.1080p.rus.lostfilm.tv_66977/hls/720/index.m3u8
+#EXTINF:-1, 3с.
+#EXTGRP:
+http://s8.playep.pro/content/stream/films/six.s02e03.1080p.rus.lostfilm.tv_67419/hls/720/index.m3u8
+#EXTINF:-1, 4с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e04.1080p.rus.lostfilm.tv_67900/hls/720/index.m3u8
+#EXTINF:-1, 5с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e05.1080p.rus.lostfilm.tv_68464/hls/720/index.m3u8
+#EXTINF:-1, 6с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e06.1080p.rus.lostfilm.tv_69096/hls/720/index.m3u8
+#EXTINF:-1, 7с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e07.1080p.rus.lostfilm.tv_69911/hls/720/index.m3u8
+#EXTINF:-1, 8с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e08.1080p.rus.lostfilm.tv_70257/hls/720/index.m3u8
+#EXTINF:-1, 9с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e09.1080p.rus.lostfilm.tv_70750/hls/720/index.m3u8
+#EXTINF:-1, 10с.
+#EXTGRP:Шестой отряд 2сез
+http://s4.playep.pro/content/stream/films/six.s02e10.1080p.rus.lostfilm.tv_71302/hls/720/index.m3u8
