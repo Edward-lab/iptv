@@ -54,3 +54,25 @@ http://s4.playep.pro/content/stream/films/six.s02e09.1080p.rus.lostfilm.tv_70750
 #EXTINF:-1, 10с.
 #EXTGRP:Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e10.1080p.rus.lostfilm.tv_71302/hls/720/index.m3u8
+
+#EXTINF:-1,Бесконечность (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/HD.LM.HDRezka.Infinite.2021.AMZN.MVO.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1,Никто (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.Nikto.2021.D.HDRip.1.46Gb_ExKinoRay_by_Twi7ter/playlist.m3u8
+#EXTINF:-1,Игры шпионов (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.The.Courier.2020.iT.BDRip.1.40Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1,Траффик (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.Crisis.2021.BDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1,Заступник (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.The.Marksman.2021.HDRip.1.46Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1,Ассоциальная сеть (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.Silk.Road.2021.BDRip.1.40Gb.MegaPeer/playlist.m3u8
+#EXTINF:-1,Цикада 3301:Квест для хакера (2021)
+#EXTGRP:Фильмы
+https://hls.kinoprofi.vip/hls/Lic.Dark.Web.Cicada.3301.2021.BDRip.1.41Gb.MegaPeer/playlist.m3u8
