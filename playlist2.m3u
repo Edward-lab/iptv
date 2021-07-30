@@ -105,10 +105,6 @@ http://31.131.136.4:9101/GulliGirl/index.m3u8
 http://31.131.136.4:9103/ctckids/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="Мультимузыка" tvg-shift="-0" , Мультимузыка
 http://31.131.136.4:9104/multimuz/index.m3u8
-#EXTINF:0 group-title="TB Newline" tvg-name="Москва 24" tvg-shift="-0" , Москва 24
-http://31.131.136.4:9101/mos24/index.m3u8
-#EXTINF:0 group-title="TB Newline" tvg-name="HSR24" tvg-shift="-0" , HSR24
-http://31.131.136.4:9101/HSR24/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="Cartoon Network" tvg-shift="-0" , Cartoon Network
 http://31.131.136.4:9105/CartoonNetwork/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="Карусель" tvg-shift="-0" , Карусель
