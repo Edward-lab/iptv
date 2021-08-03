@@ -395,9 +395,6 @@ https://www.radioroks.ua/RadioROKS.m3u
 #EXTINF:0 tvg-name="RadioRelax" tvg-shift="-0" , RadioRelax
 #EXTGRP:Радио
 https://www.radiorelax.ua/RadioRelax.m3u
-#EXTINF:0 tvg-name="Русское радио Украина" tvg-shift="-0" , Русское радио Украина
-#EXTGRP:Радио
-http://www.rusradio.com.ua/RusRadio_32.m3u
 #EXTINF:0 tvg-name="HitFM" tvg-shift="-0" , HitFM
 #EXTGRP:Радио
 https://www.hitfm.ua/HitFM.m3u
