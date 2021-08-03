@@ -2,6 +2,8 @@
 #EXTINF:0,Камера Площадь
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.4:8101/amvr1/index.m3u8
+#EXTINF:0 tvg-name="Euronews" tvg-shift="-0" , Euronews
+http://31.131.136.4:9110/Euronews/index.m3u8
 #EXTINF:0,ТНТ
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.4:9106/tnt/index.m3u8
@@ -17,8 +19,6 @@ http://31.131.136.4:9106/subbota/index.m3u8
 #EXTINF:0 tvg-name="ЧЕ" tvg-shift="-0" , ЧЕ
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.4:9114/Che/index.m3u8
-#EXTINF:0 tvg-name="Euronews" tvg-shift="-0" , Euronews
-http://31.131.136.4:9110/Euronews/index.m3u8
 
 #EXTINF:0, TV 1000
 #EXTGRP:Кино
@@ -389,3 +389,28 @@ http://31.131.136.4:9104/live/index.m3u8
 #EXTINF:0 tvg-name="ТЕЛЕКАФЕ" tvg-shift="-0" , ТЕЛЕКАФЕ
 #EXTGRP:Инфоразвлекательные
 http://31.131.136.4:9105/telekafe/index.m3u8
+#EXTINF:0 tvg-name="RadioROKS" tvg-shift="-0" , RadioROKS
+#EXTGRP:Радио
+https://www.radioroks.ua/RadioROKS.m3u
+#EXTINF:0 tvg-name="RadioRelax" tvg-shift="-0" , RadioRelax
+#EXTGRP:Радио
+https://www.radiorelax.ua/RadioRelax.m3u
+#EXTINF:0 tvg-name="Русское радио Украина" tvg-shift="-0" , Русское радио Украина
+#EXTGRP:Радио
+http://www.rusradio.com.ua/RusRadio_32.m3u
+#EXTINF:0 tvg-name="HitFM" tvg-shift="-0" , HitFM
+#EXTGRP:Радио
+https://www.hitfm.ua/HitFM.m3u
+http://www.rusradio.com.ua/RusRadio_32.m3u
+#EXTINF:0 tvg-name="KissFM" tvg-shift="-0" , KissFM
+#EXTGRP:Радио
+https://www.kissfm.ua/KissFM.m3u
+#EXTINF:0 tvg-name="Наше Радио" tvg-shift="-0" , Наше Радио
+#EXTGRP:Радио
+https://www.nasheradio.ua/NasheRadio.m3u
+#EXTINF:0 tvg-name="Мелодія FM" tvg-shift="-0" , Мелодія FM
+#EXTGRP:Радио
+https://www.melodiafm.ua/MelodiaFM.m3u
+#EXTINF:0 tvg-name="Radio Jazz" tvg-shift="-0" , Radio Jazz
+#EXTGRP:Радио
+https://www.radiojazz.ua/RadioJazz.m3u
