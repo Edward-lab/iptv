@@ -150,10 +150,10 @@ http://tv3.newline.in.ua:9104/ZeeTV/index.m3u8
 
 #EXTINF:0 tvg-name="Футбол 1" tvg-shift="-0" , Футбол 1
 #EXTGRP:Спортивные
-http://tv4.newline.in.ua:8101/futbol1/index.m3u8
+http://tv.newline.in.ua:8686/futbol1
 #EXTINF:0 tvg-name="Футбол 2" tvg-shift="-0" , Футбол 2
 #EXTGRP:Спортивные
-http://tv4.newline.in.ua:8101/futbol2/index.m3u8
+http://tv.newline.in.ua:8686/futbol2
 #EXTINF:0 tvg-name="МАТЧ! ФУТБОЛ 1" tvg-shift="-0" , МАТЧ! ФУТБОЛ 1
 #EXTGRP:Спортивные
 http://tv4.newline.in.ua:9106/futbol1/index.m3u8
