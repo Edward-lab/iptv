@@ -1,692 +1,522 @@
 #EXTM3U
-#EXTINF:-1,Никто (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Никто (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Nikto.2021.D.HDRip.1.46Gb_ExKinoRay_by_Twi7ter/playlist.m3u8
-#EXTINF:-1,Игры шпионов (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Игры шпионов (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.The.Courier.2020.iT.BDRip.1.40Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Траффик (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Траффик (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Crisis.2021.BDRip.1.46Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Заступник (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Заступник (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.The.Marksman.2021.HDRip.1.46Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Ассоциальная сеть (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Ассоциальная сеть (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Silk.Road.2021.BDRip.1.40Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Земля кочевников (2021)
-#EXTGRP:Фильмы
+#EXTINF: -1, Земля кочевников (2021)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/HD.LM.HDRezka.Nomadland.2020.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Неистовый (2020)
-#EXTGRP:Фильмы
+#EXTINF: -1, Неистовый (2020)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Neistovyj.2020.D.HDRip.1.46Gb_ExKinoRay_by_Twi7ter/playlist.m3u8
-#EXTINF:-1,Интерстеллар
-#EXTGRP:Фильмы
+#EXTINF: -1, Интерстеллар
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Interstellar.HDRip/playlist.m3u8
-#EXTINF:-1,Форпост
-#EXTGRP:Фильмы
+#EXTINF: -1, Форпост
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.The.Outpost.2020.BDRip.2.18Gb.D.MegaPeer/playlist.m3u8
-#EXTINF:-1,Убийственная команда (2019)
-#EXTGRP:Фильмы
+#EXTINF: -1, Убийственная команда (2019)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Lic.The.Kill.Team.2019.BDRip.1.46Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1,Дюнкерк (2017)
-#EXTGRP:Фильмы
+#EXTINF: -1, Дюнкерк (2017)
+#EXTGRP: Фильмы
 https://hls.kinoprofi.vip/hls/Dunkirk.2017.D.BDRip/playlist.m3u8
-#EXTINF:-1,По соображениям совести (2016)
-#EXTGRP:Фильмы
+#EXTINF: -1, По соображениям совести (2016)
+#EXTGRP: Фильмы
 https://bk2-hls.kinoprofi.vip/hls/Po.Sobrajeniyam.Sovesti.2016.HDRip/playlist.m3u8
-#EXTINF:-1,Свободный штат Джонса (2016)
-#EXTGRP:Фильмы
+#EXTINF: -1, Свободный штат Джонса (2016)
+#EXTGRP: Фильмы
 https://bk2-hls.kinoprofi.vip/hls/Svobodniy.Jtat.Johnsona.2016.HDRIp/playlist.m3u8
-#EXTINF:-1,Повелитель бури (2010)
-#EXTGRP:Фильмы
+#EXTINF: -1, Повелитель бури (2010)
+#EXTGRP: Фильмы
 https://bk2-hls.kinoprofi.vip/hls/Povelitel_byri_HDRip/playlist.m3u8
-#EXTINF:-1,В белом плену (2013)
-#EXTGRP:Фильмы
+#EXTINF: -1, В белом плену (2013)
+#EXTGRP: Фильмы
 https://bk2-hls.kinoprofi.vip/hls/V.belom.plenu.2012.P.HDRip/playlist.m3u8
-#EXTINF:-1,Снайпер (2015)
-#EXTGRP:Фильмы
+#EXTINF: -1, Снайпер (2015)
+#EXTGRP: Фильмы
 https://bk2-hls.kinoprofi.vip/hls/Sniper.2015.HDRip/playlist.m3u8
 
-#EXTINF:-1, 1с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 1с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e01.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 2с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 2с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e02.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 3с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 3с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e03.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 4с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 4с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e04.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 5с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 5с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e05.1080p.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 6с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 6с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e06.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 7с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 7с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e07.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
-#EXTINF:-1, 8с.
-#EXTGRP:Шестой отряд 1сез
+#EXTINF: -1, 8с.
+#EXTGRP: Шестой отряд 1сез
 http://s4.playep.pro/content/stream/films/six.s01e08.720p.web.rus.lostfilm.tv/hls/720/index.m3u8
 
-#EXTINF:-1, 1с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 1с.
+#EXTGRP: Шестой отряд 2сез
 http://s8.playep.pro/content/stream/films/six.s02e01.1080p.rus.lostfilm.tv_66828/hls/720/index.m3u8
-#EXTINF:-1, 2с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 2с.
+#EXTGRP: Шестой отряд 2сез
 http://s8.playep.pro/content/stream/films/six.s02e02.1080p.rus.lostfilm.tv_66977/hls/720/index.m3u8
-#EXTINF:-1, 3с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 3с.
+#EXTGRP: Шестой отряд 2сез
 http://s8.playep.pro/content/stream/films/six.s02e03.1080p.rus.lostfilm.tv_67419/hls/720/index.m3u8
-#EXTINF:-1, 4с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 4с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e04.1080p.rus.lostfilm.tv_67900/hls/720/index.m3u8
-#EXTINF:-1, 5с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 5с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e05.1080p.rus.lostfilm.tv_68464/hls/720/index.m3u8
-#EXTINF:-1, 6с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 6с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e06.1080p.rus.lostfilm.tv_69096/hls/720/index.m3u8
-#EXTINF:-1, 7с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 7с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e07.1080p.rus.lostfilm.tv_69911/hls/720/index.m3u8
-#EXTINF:-1, 8с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 8с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e08.1080p.rus.lostfilm.tv_70257/hls/720/index.m3u8
-#EXTINF:-1, 9с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 9с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e09.1080p.rus.lostfilm.tv_70750/hls/720/index.m3u8
-#EXTINF:-1, 10с.
-#EXTGRP:Шестой отряд 2сез
+#EXTINF: -1, 10с.
+#EXTGRP: Шестой отряд 2сез
 http://s4.playep.pro/content/stream/films/six.s02e10.1080p.rus.lostfilm.tv_71302/hls/720/index.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Апокалипсис
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Апокалипсис
 https://bk2-hls.kinoprofi.vip/hls/apokalipsis-2006_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",3 секунды
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",3 секунды
 https://hls.kinoprofi.vip/hls/HD.PM.The.Informer.2019.AMZN.WEB-DLRip.1.46Gb.MegaPeer/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бонни и Клайд
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бонни и Клайд
 https://bk2-hls.kinoprofi.vip/hls/Bonni.Klayd.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",В погоне за Бонни и Клайдом
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",В погоне за Бонни и Клайдом
 https://hls.kinoprofi.vip/hls/V.Pogone.Za.Boni.i.Klaidom.HD.PM/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бойцовский Клуб
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бойцовский Клуб
 https://bk2-hls.kinoprofi.vip/hls/boycovskiy-klub-1999_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Черновик
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Черновик
 https://hls.kinoprofi.vip/hls/Chernovik.2018.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Generation 《П》
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Generation 《П》
 https://bk2-hls.kinoprofi.vip/hls/Pokolenie.P.2011.O.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Морфий
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Морфий
 https://bk2-hls.kinoprofi.vip/hls/morfiy-2008.hdrip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",99 франков
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",99 франков
 https://bk2-hls.kinoprofi.vip/hls/99_francs_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Реквием по мечте
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Реквием по мечте
 https://bk2-hls.kinoprofi.vip/hls/rekviem-po-mechte-2000_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Страх и ненависть в лас-вегасе
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Страх и ненависть в лас-вегасе
 https://bk2-hls.kinoprofi.vip/hls/Strah.i.nenavist.v.LasVegase.1998/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Игра
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Игра
 https://bk2-hls.kinoprofi.vip/hls/igra-1997_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Машинист
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Машинист
 https://bk2-hls.kinoprofi.vip/hls/mashinist-2004.hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Идеальные незнакомцы
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Идеальные незнакомцы
 https://hls.kinoprofi.vip/hls/Idealnye.neznakomcy.2016.P.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Петля времени
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Петля времени
 https://bk2-hls.kinoprofi.vip/hls/Petlya.Vremeni.2012.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",На игле
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",На игле
 https://bk2-hls.kinoprofi.vip/hls/na-igle-1996_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстази
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстази
 https://bk2-hls.kinoprofi.vip/hls/Exstazi.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстази 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстази 2
 https://bk2-hls.kinoprofi.vip/hls/Ekstazi.2011.P.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пуля
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пуля
 https://bk2-hls.kinoprofi.vip/hls/Bullet.2014.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы FULL
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы FULL
 https://bk2-hls.kinoprofi.vip/hls/Oblasti_tmy_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E01.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы2-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E02.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы3-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E03.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы4-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E04.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы5-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E05.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы6-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E06.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы7-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E07.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы8-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E08.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы9-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E09.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы10-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E10.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы11-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E11.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы12-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E12.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы13-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E13.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы14-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E14.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы15-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E15.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы16-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E16.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы17-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E17.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы18-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E18.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы19-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E19.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы20-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E20.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы21-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E21.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы22-серия
-https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E22.LostFilm/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e01
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e01.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e02
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e02.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e03
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e03.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e04
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e04.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e05
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e05.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e06
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e06.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e07
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e07.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e08
-https://hls.kinoprofi.vip/hls/The.Witcher.s01e08.WEBDLRip.NewStudio/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-1
-https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e01/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-2
-https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e02/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-3
-https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e03/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-4
-https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e04/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-5
-https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e05/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-6
-https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e06/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Рок-н-рольщик
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Рок-н-рольщик
 https://bk2-hls.kinoprofi.vip/hls/rok-n-rolschik-2008_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Рестлер
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Рестлер
 https://bk2-hls.kinoprofi.vip/hls/restler-2008_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Аптечный ковбой
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Аптечный ковбой
 https://bk2-hls.kinoprofi.vip/hls/aptechnyy-kovboy-1989.hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Альфа Дог
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Альфа Дог
 https://bk2-hls.kinoprofi.vip/hls/Alfa_Dog_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Высший пилотаж
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Высший пилотаж
 https://bk2-hls.kinoprofi.vip/hls/vysshiy-pilotazh-2003.dvd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Тренировочный день
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Тренировочный день
 https://bk2-hls.kinoprofi.vip/hls/Training_Day.2001hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Дневник баскетболиста
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Дневник баскетболиста
 https://bk2-hls.kinoprofi.vip/hls/Dnevnik.basketbolista.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Криминальное чтиво
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Криминальное чтиво
 https://bk2-hls.kinoprofi.vip/hls/Kriminalnoe.Chtivo.1994.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Вход в пустоту
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Вход в пустоту
 https://bk2-hls.kinoprofi.vip/hls/Enter.the.void.2010.P.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кокаин
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кокаин
 https://bk2-hls.kinoprofi.vip/hls/Kokain2001HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Сид и Нэнси
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Сид и Нэнси
 https://bk2-hls.kinokrad.co/hls/Sid.I.Nancy.1986.DVDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстаз
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Экстаз
 https://hls.kinoprofi.vip/hls/Climax.2018.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Написать любовь на её руках
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Написать любовь на её руках
 https://bk2-hls.kinoprofi.vip/hls/Napisat.lubov.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кровавый четверг
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кровавый четверг
 https://bk2-hls.kinoprofi.vip/hls/krovavyy-chetverg-1998.hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Авиатор
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Авиатор
 https://hls.kinoprofi.vip/hls/aviator-2004_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Начало
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Начало
 https://bk2-hls.kinoprofi.vip/hls/Nachalo.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Зодиак
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Зодиак
 https://bk2-hls.kinoprofi.vip/hls/Zodiac.2007.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Без чувств
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Без чувств
 https://bk2-hls.kinoprofi.vip/hls/bez-chuvstv-1998_HDrip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Не грози Южному централу
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Не грози Южному централу
 https://bk2-hls.kinoprofi.vip/hls/Ne.grozi.Ujnomu.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Чокнутый профессор
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Чокнутый профессор
 https://bk2-hls.kinoprofi.vip/hls/Cheknutiy.Professor.1996.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Чокнутый профессор 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Чокнутый профессор 2
 https://bk2-hls.kinoprofi.vip/hls/Choknutyi.Professor.2.2000HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Маска
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Маска
 https://bk2-hls.kinoprofi.vip/hls/Maska.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ангел-А
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ангел-А
 https://bk2-hls.kinoprofi.vip/hls/Angel.A.2005.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Шерлок Холмс
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Шерлок Холмс
 https://hls.kinoprofi.vip/hls/Sherlock.Holmes.2009.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Шерлок Холмс Игра теней
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Шерлок Холмс Игра теней
 https://bk2-hls.kinoprofi.vip/hls/Sherlock_Holmes_Igra_teney_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 этаж (1999)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 этаж (1999)
 https://bk2-hls.kinoprofi.vip/hls/Trinadtsatyy.etazh.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб
 https://bk2-hls.kinoprofi.vip/hls/kub-1997_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб 2 《Гиперкуб》
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб 2 《Гиперкуб》
 https://bk2-hls.kinoprofi.vip/hls/Kub.2.Giperkub.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб 3 《Зеро》
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Куб 3 《Зеро》
 https://bk2-hls.kinoprofi.vip/hls/Cub.Zero.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Восставший из ада 2015(Откровения)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Восставший из ада 2015(Откровения)
 https://bk2-hls.kinoprofi.vip/hls/Vosstavshiy.iz.ada.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Мы легенды
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Мы легенды
 https://bk2-hls.kinoprofi.vip/hls/Mi.Legendi.2008.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Два нуля
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Два нуля
 https://bk2-hls.kinoprofi.vip/hls/dva-nulya2004dvd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Джон Картер
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Джон Картер
 https://hls.kinoprofi.vip/hls/Djon.Karter.2012.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Проклятие черной жемчужины (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Проклятие черной жемчужины (2003)
 https://hls.kinoprofi.vip/hls/Pirati_Karibskogo_morya_pcj2003HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Сундук мертвеца (2006)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Сундук мертвеца (2006)
 https://hls.kinoprofi.vip/hls/Pirati_Karibskogo_morya_sm_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: На краю Света (2007)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: На краю Света (2007)
 https://hls.kinoprofi.vip/hls/Pirati_Karibskogo_morya_nks_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: На странных берегах (2011)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: На странных берегах (2011)
 https://bk2-hls.kinoprofi.vip/hls/Piraty_Karibskogo_morya_4_nsb_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пираты Карибского моря: Мертвецы не рассказывают сказки (2017)
 https://hls.kinoprofi.vip/hls/Piratiyo.Karib.P.2017.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Не шутите с Зоханом
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Не шутите с Зоханом
 https://bk2-hls.kinokrad.co/hls/Ne.Shutite.s.Zohanom.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Клетка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Клетка
 https://bk2-hls.kinoprofi.vip/hls/Kletka.2000_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Господин Никто
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Господин Никто
 https://bk2-hls.kinoprofi.vip/hls/Mr.Nobody/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Леон
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Леон
 https://bk2-hls.kinoprofi.vip/hls/Leon.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Жена путешественника во времени
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Жена путешественника во времени
 https://bk2-hls.kinoprofi.vip/hls/The_Time_Travelers_Wife.2008.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",12 обезьян
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",12 обезьян
 https://bk2-hls.kinokrad.co/hls/12Obezyan.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Исходный код
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Исходный код
 https://bk2-hls.kinoprofi.vip/hls/Source.Code.2011.XviD.DUB.AC3.BDRi/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Планета ка-пэкс
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Планета ка-пэкс
 https://bk-hls.kinoprofi.vip/hls/planeta-ka-peks-2001_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пиджак
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пиджак
 https://bk2-hls.kinoprofi.vip/hls/The.Jacket.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Револьвер
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Револьвер
 https://bk2-hls.kinoprofi.vip/hls/revolver-2005_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Я - легенда
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Я - легенда
 https://hls.kinokrad.co/hls/Ja-legenda.2007.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Игры разума
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Игры разума
 https://bk2-hls.kinoprofi.vip/hls/igry-razuma-2001_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Черный лебедь
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Черный лебедь
 https://bk2-hls.kinoprofi.vip/hls/Cherny_lebed_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Человек человеку волк
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Человек человеку волк
 https://hls.kinoprofi.vip/hls/Dog.Eat.Dog.2016.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Человек дождя
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Человек дождя
 https://bk2-hls.kinokrad.co/hls/chelovek-dozhdya-1988_HDrip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Текст
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Текст
 https://hls.kinoprofi.vip/hls/HD.OR.T3kCt.2O19.O.WEBRip.1.46Gb/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Мистер и миссис Смит
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Мистер и миссис Смит
 https://hls.kinoprofi.vip/hls/mister-i-missis-smit-2005_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Помни
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Помни
 https://bk2-hls.kinoprofi.vip/hls/pomni-2000_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Голем
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Голем
 https://hls.kinoprofi.vip/hls/The.Limehouse.Golem.2016.P.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Таинственный лес
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Таинственный лес
 https://bk2-hls.kinoprofi.vip/hls/tainstvennyy-les-2004_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Догвилль
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Догвилль
 https://bk2-hls.kinoprofi.vip/hls/Dogville.2003.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Подозрительные лица
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Подозрительные лица
 https://bk2-hls.kinoprofi.vip/hls/Podozritelnie.Lica.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Лофт
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Лофт
 https://bk2-hls.kinoprofi.vip/hls/Loft.2014.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзионист
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзионист
 https://bk2-hls.kinoprofi.vip/hls/illyuzionist2006hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Престиж
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Престиж
 https://bk2-hls.kinoprofi.vip/hls/Prestige.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Счастливое число Слевина
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Счастливое число Слевина
 https://bk2-hls.kinoprofi.vip/hls/schastlivoe-chislo-slevina-2005_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Облачный атлас
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Облачный атлас
 https://bk2-hls.kinoprofi.vip/hls/Cloud_Atlas_2012_CEE_Transf_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Примесь
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Примесь
 https://bk2-hls.kinoprofi.vip/hls/Primes.2013.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Малхолланд Драйв
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Малхолланд Драйв
 https://bk2-hls.kinoprofi.vip/hls/Mulholland_Drive_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Американская история Икс
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Американская история Икс
 https://bk2-hls.kinoprofi.vip/hls/Amerikanskaja.istoriya.X.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Банды Нью-Йорка (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Банды Нью-Йорка (2003)
 https://bk2-hls.kinoprofi.vip/hls/Bandy_New_Yorka2003HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Однажды в Америке
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Однажды в Америке
 https://bk2-hls.kinoprofi.vip/hls/Odnajdi.v.Ameriki.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Славные парни
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Славные парни
 https://bk2-hls.kinoprofi.vip/hls/Slavnie.Parni.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бронкская история
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Бронкская история
 https://bk2-hls.kinoprofi.vip/hls/Bronkskaya.istoriya.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Путь Карлито
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Путь Карлито
 https://bk2-hls.kinoprofi.vip/hls/Put.Kalito.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Легенда
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Легенда
 https://bk2-hls.kinoprofi.vip/hls/Legenda.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ирландец
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ирландец
 https://bk2-hls.kinoprofi.vip/hls/Irlandec_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Проклятый путь
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Проклятый путь
 https://bk2-hls.kinoprofi.vip/hls/Proklyatyi_pyt_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Джони Д
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Джони Д
 https://bk2-hls.kinoprofi.vip/hls/Djonny.D.2009.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Крестный отец
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Крестный отец
 https://bk2-hls.kinoprofi.vip/hls/krestnyy-otec-1972.hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Молчание Ягнят
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Молчание Ягнят
 https://bk2-hls.kinoprofi.vip/hls/Molchanie.Yagnyat.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Побег из Шоушенка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Побег из Шоушенка
 https://bk2-hls.kinoprofi.vip/hls/Pobeg.iz.Showshenka.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект бабочки 2004
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект бабочки 2004
 https://bk2-hls.kinoprofi.vip/hls/jeffekt-babochki2004HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект Бабочки 2009
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект Бабочки 2009
 https://bk2-hls.kinoprofi.vip/hls/Effect.Babochki.2008.3.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект колибри
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Эффект колибри
 https://hls.kinoprofi.vip/hls/Effect.Kolibri.2013.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 1
 https://bk2-hls.kinoprofi.vip/hls/perevozchik-2002_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 2
 https://bk2-hls.kinoprofi.vip/hls/perevozchik-2_2005hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 3
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Перевозчик 3
 https://bk2-hls.kinoprofi.vip/hls/Perevozchik-3.2008.720p.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси
 https://bk2-hls.kinoprofi.vip/hls/Taksi.1998.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 2
 https://hls.kinoprofi.vip/hls/taksi-2-2000_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 3
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 3
 https://bk2-hls.kinoprofi.vip/hls/Taxi_3_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 4
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 4
 https://bk2-hls.kinoprofi.vip/hls/taksi-4-2007_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 5
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Такси 5
 https://hls.kinoprofi.vip/hls/Taxi.5.2018.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2005
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2005
 https://bk2-hls.kinoprofi.vip/hls/13-y-rayon-2004_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2009 Ультиматум
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2009 Ультиматум
 https://bk2-hls.kinoprofi.vip/hls/Banlieue13-Ultimatum.2009hd/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2014 Кирпичные особняки
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",13 район 2014 Кирпичные особняки
 https://bk2-hls.kinoprofi.vip/hls/13.raion.Kirpichnye.osobnyaki.2014.BDRipRUS/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Время
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Время
 https://hls.kinoprofi.vip/hls/vremya-2011_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Братство кольца (2002)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Братство кольца (2002)
 https://hls.kinoprofi.vip/hls/Vlastelin.Kolec.Bratstvo.Kolca.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Две крепости (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Две крепости (2003)
 https://hls.kinoprofi.vip/hls/The.Lord.of.the.Rings2Towers.2003hdrip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Возвращение Короля (2004)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Властелин колец: Возвращение Короля (2004)
 https://hls.kinoprofi.vip/hls/Vlastelin.Kolec.Vozvrashenie.Korolya.2003.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Побочный эффект
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Побочный эффект
 https://bk-hls.kinoprofi.vip/hls/pobochnyy-effektise-2013_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Вечное сияние чистого разума
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Вечное сияние чистого разума
 https://bk2-hls.kinoprofi.vip/hls/vechnoe-siyanie-chistogo-razuma-2004HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Грань будущего
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Грань будущего
 https://hls.kinoprofi.vip/hls/Gran.buduchego/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ванильное небо
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ванильное небо
 https://bk2-hls.kinoprofi.vip/hls/Vanilla.Sky.2001_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Радиоволна
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Радиоволна
 https://bk2-hls.kinoprofi.vip/hls/Frequency2000HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пророк
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Пророк
 https://bk2-hls.kinoprofi.vip/hls/Prorok.2007.XviD.BDRip-Kinozal.TV/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",День сурка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",День сурка
 https://bk2-hls.kinoprofi.vip/hls/den-surka-1993_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзия обмана
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзия обмана
 https://bk2-hls.kinoprofi.vip/hls/Illyuziya.obmana.TC.2013.DUAL.BDRip.XviD.AC3.-HQCLUB/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзия обмана 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Иллюзия обмана 2
 https://hls.kinoprofi.vip/hls/Illuziya.Obmana.2.2016.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица (1999)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица (1999)
 https://bk-hls.kinoprofi.vip/hls/Matrix.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Перезагрузка (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Перезагрузка (2003)
 https://bk2-hls.kinoprofi.vip/hls/Matrix_HDRip_Perezagruzka/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Революция (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Матрица: Революция (2003)
 https://bk2-hls.kinoprofi.vip/hls/Matrix_HDRip_Revoluciya/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном (1999)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном (1999)
 https://hls.kinokrad.co/hls/Ludi.v.chernom.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 2 (2002)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 2 (2002)
 https://bk2-hls.kinoprofi.vip/hls/Men.In.Black_2_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 3 (2012)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном 3 (2012)
 https://hls.kinoprofi.vip/hls/Ljudi.v.Chernom.3.D.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном: Интернэшнл (2019)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Люди в черном: Интернэшнл (2019)
 https://hls.kinoprofi.vip/hls/Men.in.Black.International.HD.PM/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Законо-послушный гражданин
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Законо-послушный гражданин
 https://bk2-hls.kinoprofi.vip/hls/Zakonoposlushnyi_grajdanin_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Неизвестный
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Неизвестный
 https://bk2-hls.kinoprofi.vip/hls/Neizvestnyu_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",На грани
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",На грани
 https://bk2-hls.kinoprofi.vip/hls/Na.Grani.2012.RUS.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж (2001)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж (2001)
 https://hls.kinoprofi.vip/hls/forsazh-2001_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Двойной форсаж (2003)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Двойной форсаж (2003)
 https://bk2-hls.kinoprofi.vip/hls/Dvoynoy_Forsaj_2003_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Тройной форсаж: Токийский дрифт (2006)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Тройной форсаж: Токийский дрифт (2006)
 https://bk2-hls.kinoprofi.vip/hls/Troynoy_Forsaj_td_2006_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 4 (2009)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 4 (2009)
 https://hls.kinoprofi.vip/hls/Forsazh.4.2009HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 5 (2011)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 5 (2011)
 https://hls.kinoprofi.vip/hls/Forsaj_5/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 6 (2013)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 6 (2013)
 https://hls.kinoprofi.vip/hls/forsazh-6-2013_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 7 (2015)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 7 (2015)
 https://hls.kinoprofi.vip/hls/Forsage.7.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 8 (2017)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж 8 (2017)
 https://hls.kinoprofi.vip/hls/Forsagigke.2017.P.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж: Хоббс и Шоу (2019)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Форсаж: Хоббс и Шоу (2019)
 https://hls.kinoprofi.vip/hls/Forsaj.HD.PM/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Стражи Галактики 2 (2017)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Стражи Галактики 2 (2017)
 https://hls.kinoprofi.vip/hls/Stragi.Galaktiki.2.2017.P.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Сборка от Karnei4" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Газонокосильщик (1992)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Газонокосильщик (1992)
 https://bk2-hls.kinoprofi.vip/hls/gazonokosilschik-1992.hd/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Свадьба в Малиновке
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Свадьба в Малиновке
 https://hls.kinoprofi.vip/hls/Svadba.v.Malinovke.1967.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Кавказская пленница. Или новые приключения Шурика
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Кавказская пленница. Или новые приключения Шурика
 https://bk2-hls.kinoprofi.vip/hls/Kavkazskaya.plennica.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Особенности национальной охоты
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Особенности национальной охоты
 https://bk2-hls.kinoprofi.vip/hls/Nacionalnaya.ohota.1995.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Особенности национальной рыбалки
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Особенности национальной рыбалки
 https://bk-hls.kinoprofi.vip/hls/osobennosti-nacionalnoy-rybalki-1998_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Брилиантовая рука
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Брилиантовая рука
 https://bk2-hls.kinoprofi.vip/hls/Brilliantovaya.Ruka.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Белое солнце пустыни
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Белое солнце пустыни
 https://hls.kinoprofi.vip/hls/Beloye.Solnce.Pustini.1969.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мама не горюй 1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мама не горюй 1
 https://bk2-hls.kinoprofi.vip/hls/Mama.ne.Goruy.1997.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мама не горюй 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мама не горюй 2
 https://bk2-hls.kinoprofi.vip/hls/Mama.Ne.Goryui.2.2005.DVDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Год свиньи (2018)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Год свиньи (2018)
 http://hls.kinoprofi.vip/hls/God.svinji.2018.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Полицейский с Рублевки. Новогодний беспредел (2018)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Полицейский с Рублевки. Новогодний беспредел (2018)
 http://hls.kinoprofi.vip/hls/Politseyskiy.s.Rublevki.Novogodniy.bespredel.2018/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Один дома 3 (1997)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Один дома 3 (1997)
 http://bk2-hls.kinoprofi.vip/hls/Odin.Doma.3.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Один дома 5. Праздничное ограбление (2012)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Один дома 5. Праздничное ограбление (2012)
 https://bk-hls.kinoprofi.vip/hls/Odin.Doma.5.Prazdnichnoe.Ograblehie.2012/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки (2010)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки (2010)
 https://bk2-hls.kinoprofi.vip/hls/Yolki.2010.RUS.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки 2 (2011)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки 2 (2011)
 https://bk2-hls.kinoprofi.vip/hls/Yolki.2.2011.RUS.BDRip.XviD.AC3.-HELLYWOOD/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки 1914 (2014)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки 1914 (2014)
 https://bk2-hls.kinoprofi.vip/hls/Elki.2014.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки Лохматые (2015)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки Лохматые (2015)
 https://bk2-hls.kinoprofi.vip/hls/Elki.lohmatye.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки. Новые (2017)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки. Новые (2017)
 http://hls.kinoprofi.vip/hls/Elki.novuye.2017.hdrip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки. Последние (2018)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Елки. Последние (2018)
 http://hls.kinoprofi.vip/hls/YOLKI_POSLEDNIE.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Ирония судьбы. Или с лёгким паром (1975)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Ирония судьбы. Или с лёгким паром (1975)
 https://bk2-hls.kinoprofi.vip/hls/ironiya-sudby-ili-s-legkim-parom-1975_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Ирония судьбы. Продолжение (2007)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Ирония судьбы. Продолжение (2007)
 http://bk2-hls.kinoprofi.vip/hls/Ironia.Sudby.2.2007.O.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественские хроники (2018)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественские хроники (2018)
 https://hls.kinoprofi.vip/hls/The.Christmas.Chronicles.2O18.D.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Здравствуй Папа. Новый год
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Здравствуй Папа. Новый год
 https://hls.kinoprofi.vip/hls/Zdrastvuy.Papa.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Здравствуй Папа. Новый год 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Здравствуй Папа. Новый год 2
 https://hls.kinoprofi.vip/hls/Daddys.Home.2.2017.D.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская история
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская история
 https://bk2-hls.kinoprofi.vip/hls/rozhdestvenskaya-istoriya-2009_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Гринч (2018)
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Гринч (2018)
 https://hls.kinoprofi.vip/hls/The.Grinch.2018.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Снежная королева 2. Перезаморозка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Снежная королева 2. Перезаморозка
 https://bk2-hls.kinoprofi.vip/hls/Snegnaya.Koroleva1.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Снежная королева. Зазеркалье
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Снежная королева. Зазеркалье
 https://hls.kinoprofi.vip/hls/Snezhnaja.Koroleva.Zazerkalje.2018.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Полярный экспресс
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Полярный экспресс
 https://bk2-hls.kinoprofi.vip/hls/Polyarnji.Ekspress.2004HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Млечный путь
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Млечный путь
 https://bk2-hls.kinoprofi.vip/hls/Mlechniy.Put.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Семьянин
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Семьянин
 https://bk2-hls.kinoprofi.vip/hls/Semyanin.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Пережить Рождество
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Пережить Рождество
 https://bk2-hls.kinoprofi.vip/hls/Perezhit_Rozhdestvo_2004_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",К-9 Рождественские приключения
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",К-9 Рождественские приключения
 https://bk2-hls.kinoprofi.vip/hls/k-9-rozhdestvenskie-priklyucheniya-2012-HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Плохой Санта
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Плохой Санта
 https://bk2-hls.kinoprofi.vip/hls/Plohoj.Santa.2003.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Кошмар перед Рождеством
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Кошмар перед Рождеством
 https://bk2-hls.kinoprofi.vip/hls/Koshmar.Pered.Rojdestvom.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Красавица и Чудовище. Чудесное Рождество
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Красавица и Чудовище. Чудесное Рождество
 https://bk2-hls.kinoprofi.vip/hls/Krasavica.i.Judovsihe.1997.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Секретная служба Санта-Клауса
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Секретная служба Санта-Клауса
 https://bk2-hls.kinoprofi.vip/hls/Sekretnaya.sluzhba.Santa.Klausa.2011.RUS.BDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Подарок на Рождество 1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Подарок на Рождество 1
 https://bk2-hls.kinoprofi.vip/hls/Podarok.na.rojdestvo.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Подарок на Рождество 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Подарок на Рождество 2
 https://bk2-hls.kinoprofi.vip/hls/podarok-na-rozhdestvo-2-2014_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Девочка со спичками
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Девочка со спичками
 https://bk2-hls.kinoprofi.vip/hls/Devochka.so.Spichkami.2013.HDTVRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",12 рождественских собак 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",12 рождественских собак 2
 https://bk2-hls.kinoprofi.vip/hls/12.Rojdestvenskih.Sobak.SATRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Гринч. Похититель Рождества
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Гринч. Похититель Рождества
 https://bk2-hls.kinoprofi.vip/hls/How.The.Grinch.Stole.Christmas.2000HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождество в Конуэе
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождество в Конуэе
 https://bk-hls.kinoprofi.vip/hls/Chr1stm4s.in.C0Hw4y.2013.P/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Четыре Рождества
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Четыре Рождества
 https://bk2-hls.kinoprofi.vip/hls/chetyre-rozhdestva-2008_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская пятерка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская пятерка
 https://bk2-hls.kinoprofi.vip/hls/Rojdestvenskaya.Pyaterka.2009.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",В канун Рождества
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",В канун Рождества
 https://hls.kinoprofi.vip/hls/V.Kanun.Rojdestva.2014.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Старый новый год
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Старый новый год
 https://bk2-hls.kinoprofi.vip/hls/Staryj.Novyj.god.2011.D.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Новая рождественская сказка
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Новая рождественская сказка
 https://bk2-hls.kinoprofi.vip/hls/novaya-rozhdestvenskaya-skazka-1988.hd/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Письма к М.
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Письма к М.
 https://bk2-hls.kinoprofi.vip/hls/Pisma.k.M.2011.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Крылатое Рождество
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Крылатое Рождество
 https://bk-hls.kinoprofi.vip/hls/Krylatoe.Rozhdestvo.2013.L1/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",1+1 дома
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",1+1 дома
 https://bk-hls.kinoprofi.vip/hls/1-1-doma/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Чародеи
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Чародеи
 https://bk2-hls.kinoprofi.vip/hls/Charodei.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Чудо Рождества
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Чудо Рождества
 https://bk2-hls.kinoprofi.vip/hls/Chudo.Rojdestva.HDTVRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Невидимки
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Невидимки
 https://bk2-hls.kinoprofi.vip/hls/Nevudimki.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Карнавальная ночь
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Карнавальная ночь
 https://bk2-hls.kinoprofi.vip/hls/Karnavalnaya.Noch.1956.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская путаница
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Рождественская путаница
 https://bk2-hls.kinoprofi.vip/hls/rozhdestvenskaya-putanica-2013_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Нянька на Рождество
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Нянька на Рождество
 https://bk2-hls.kinoprofi.vip/hls/Nyanka.Na.Rojdestvo.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мисс Рождество
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Мисс Рождество
 https://hls.kinoprofi.vip/hls/Miss.christmas.2017.P.HDrip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Нико 2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Нико 2
 https://bk2-hls.kinoprofi.vip/hls/niko-2-2012_HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Н/Г" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Маленький помощник Санты
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://png-images.ru/wp-content/uploads/2015/02/christmas_PNG3744-170x170.png",Маленький помощник Санты
 https://bk2-hls.kinoprofi.vip/hls/Malenkiy.Pomoshnik.Santi.2015.HDRip/playlist.m3u8
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2
-http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.2.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа4
-http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.4.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа5
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.5.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2-1
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.01.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-4
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.04.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-8
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.08.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-15
-http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.15.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-5
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.05.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-6
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.06.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-10
-http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.10.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-12
-http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.12.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-3
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.03.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-14
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.14.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-4
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.04.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-8
-http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.08.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-9
-http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.09.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-11
-http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.11.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-8
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.08.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-3
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.03..a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-6
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.06..a1.31.10.12.mp4
-#EXTINF:-1 group-title="Байки из Склепа" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-11
-http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.11..a1.31.10.12.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 4
-http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e04.Death.Over.Easy.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 1 Серия 9
-http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e09.Death.Be.Not.Stupid.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 2 Серия 8
-http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e08.Death.Watch.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 2 Серия 9
-http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e09.Waking.Up.Dead.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 1
-http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e01.Death.On.A.Stick.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 2
-http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e02.Putting.A.Smiley.Face.On.Death.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 7
-http://data06-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e07.Hurry.Up.and.Die.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="1000-самых глупых смертей" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",Сезон 3 Серия 9
-http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e09.Young.Dumb.and.Full.of.Death.Rus.SATRip.a1.28.03.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 1
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.1.seriya..Kabare.Maski-Shou..Epizod.1.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 2
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.2.seriya..Kabare.Maski-Shou..Epizod.2.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 3
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.3.seriya..Kabare.Maski-Shou..Epizod.3.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 4
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.4.seriya..Kabare.Maski-Shou..Epizod.4.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 5
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.5.seriya..Kabare.Maski-Shou..Epizod.5.a1.24.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 6
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.6.seriya..Kabare.Maski-Shou..Epizod.6.a1.24.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 7
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.7.seriya..Kabare.Maski-Shou..Epizod.7.a1.24.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 9
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.9.seriya..Kabare.Maski-Shou..Epizod.9.a1.24.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 11
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.11.seriya..Kabare.Maski-Shou..Epizod.11.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 12
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.12.seriya..Kabare.Maski-Shou..Epizod.12.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 13
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.13.seriya..Kabare.Maski-Shou..Epizod.13.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 14
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.14.seriya..Kabare.Maski-Shou..Epizod.14.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 15
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.15.seriya..Kabare.Maski-Shou..Epizod.15.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 16
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.16.seriya..Kabare.Maski-Shou..Epizod.16.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 17
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.17.seriya..Maski.v.Rossii..Epizod.1.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 19
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.19.seriya..Maski.v.Rossii..Epizod.3.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 20
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.20.seriya..Maski.v.Rossii..Epizod.4.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 21
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.21.seriya..Maski.v.GAI.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 23
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.23.seriya..Maski.v.Odesse.a1.23.11.13.mp4
-#EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 24
-http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.24.seriya..Maski.v.Strane.Voshodyaschego.Solnca.a1.23.11.13.mp4
 #EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 25
 http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.25.seriya..Maski.v.armii..Epizod.1.a1.23.11.13.mp4
 #EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 26
@@ -813,40 +643,143 @@ http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Pr
 http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.98.seriya..Maski-.zhizn.kak.shou.a1.24.11.13.mp4
 #EXTINF:-1 group-title="Maski show" tvg-logo="https://cs5.pikabu.ru/images/big_size_comm/2015-01_6/14222948099344.jpg",МАСКИ ШОУ 99
 http://data00-cdn.datalock.ru/gfi2lm/7cc9eeddb3683546c3f1f388b681cefe/grid/7f_Programma.Maskishou.99.seriya..Maski-shou.prodolzhaetsya.a1.24.11.13.mp4#EXTM3U
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы1-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E01.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы2-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E02.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы3-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E03.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы4-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E04.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы5-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E05.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы6-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E06.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы7-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E07.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы8-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E08.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы9-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E09.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы10-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E10.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы11-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E11.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы12-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E12.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы13-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E13.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы14-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E14.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы15-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E15.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы16-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E16.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы17-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E17.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы18-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E18.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы19-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E19.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы20-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E20.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы21-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E21.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Области тьмы22-серия
+https://bk2-hls.kinoprofi.vip/hls/Limitless.S01E22.LostFilm/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e01
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e01.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e02
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e02.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e03
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e03.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e04
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e04.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e05
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e05.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e06
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e06.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e07
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e07.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Ведьмак s01e08
+https://hls.kinoprofi.vip/hls/The.Witcher.s01e08.WEBDLRip.NewStudio/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-1
+https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e01/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-2
+https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e02/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-3
+https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e03/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-4
+https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e04/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-5
+https://bk-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e05/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://karnei4.github.io/convert/VIDEOSALONVHS.png",Кайф с доставкой серия-6
+https://bk2-hls.kinokrad.co/hls/Kajf_s_dostavkoj.Jaskier.s01e06/playlist.m3u8
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.2.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа4
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.4.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа5
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.1.sezon.5.seria.iz.6.1989.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа2-1
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.01.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-4
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.04.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-8
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.08.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 2-15
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.2.sezon.15.seria.iz.18.1990.XviD.DVDRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-5
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.05.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-6
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.06.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-10
+http://data12-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.10.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 3-12
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.3.sezon.12.seria.iz.14.1991.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-3
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.03.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 4-14
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.4.sezon.14.seria.iz.14.1992.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-4
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.04.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-8
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.08.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-9
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.09.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 5-11
+http://data06-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.5.sezon.11.seria.iz.13.1993.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 6-8
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_Baiky.iz.sklepa.6.sezon.08.seria.iz.15.1994.DivX.SATRip.a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-3
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.03..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-6
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.06..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="https://www.vokrug.tv/pic/product/2/1/8/5/21859697dee122d1bd9d6a572d00c756.jpg",Байки из Склепа 7-11
+http://data03-cdn.datalock.ru/fi2lm/85bb3a6919f822db9e68a362df10d78d/7f_baiki.iz.sklepa.11..a1.31.10.12.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 1 Серия 4
+http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e04.Death.Over.Easy.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 1 Серия 9
+http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s01e09.Death.Be.Not.Stupid.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 2 Серия 8
+http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e08.Death.Watch.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 2 Серия 9
+http://data03-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s02e09.Waking.Up.Dead.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 3 Серия 1
+http://data12-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e01.Death.On.A.Stick.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 3 Серия 2
+http://data01-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e02.Putting.A.Smiley.Face.On.Death.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 3 Серия 7
+http://data06-cdn.datalock.ru/fi2lm/292d5ada77f6e7349c599fb4a27e7a83/7f_1000.ways.to.die.s03e07.Hurry.Up.and.Die.Rus.SATRip.a1.28.03.13.mp4
+#EXTINF:-1 group-title="Сериалы" tvg-logo="http://cdn.seasonvar.ru/oblojka/6670.jpg",1000-самых глупых смертей Сезон 3 Серия 9
 #EXTINF:-1 ,Dior и я (2014)
 https://vs17.vcdn.biz/80af9c0b90c4588bac6917401ce8c96c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35342641/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid809200809-b2000000.m3u8
-#EXTINF:-1 ,Адмирал Нахимов (1946)
-https://vs42.vcdn.biz/50be2be94be15b52037c3ff0e27097ce_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18364271/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid615884355-b2000000.m3u8
-#EXTINF:-1 ,Адмирал Ушаков (1953)
-https://vs46.vcdn.biz/a80cbb7e1f7d2643bd250a66a391fd79_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18364251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid838427555-b2000000.m3u8
-#EXTINF:-1 ,Александр Попов (1949)
-https://vs20.vcdn.biz/b528a703a513a67db9b0a1f0f60f0c03_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/365501/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2145365249-b2000000.m3u8
 #EXTINF:-1 ,Антон Чехов (2015)
 https://vs43.vcdn.biz/f131b5eddadcc11a3b493f9c6df8d360_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/45418431/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1575418352-b2000000.m3u8
-#EXTINF:-1 ,Баллада о Беринге и его друзьях (1970)
-https://vs42.vcdn.biz/98f7d16874a83b2ff16ac2ecbe732cb8_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/279721/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid934525763-b1500000.m3u8
-#EXTINF:-1 ,Белинский (1953)
-https://vs55.vcdn.biz/e925fde8f64eedba684d7781a3fcc9fc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/321161/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid898521191-b1350000.m3u8
-#EXTINF:-1 ,Борис Годунов 1 серия (1986)
-https://vs42.vcdn.biz/b9a6a81360d7823fc7c9c1a12ac0a584_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24942741/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2125943101-b2000000.m3u8
-#EXTINF:-1 ,Борис Годунов 2 серия (1986)
-https://vs48.vcdn.biz/b47d38aa7d836ddf4b1a067b9a1977ad_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24942731/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2094099510-b2000000.m3u8
-#EXTINF:-1 ,Даниил князь Галицкий (1987)
-https://vs7.vcdn.biz/1dc20e5de6ea3bee2a14217a47a74ac3_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/157981/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid805856661-b1500000.m3u8
 #EXTINF:-1 ,Железная леди (2011)
 https://vs7.vcdn.biz/44a993538fde933df9089f202dafbcfb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/22790671/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid754428112-b2000000.m3u8
-#EXTINF:-1 ,Первопечатник Иван Федоров (1941)
-https://vs9.vcdn.biz/c25d469f4fc33078e09ad72c99027c58_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/33075071/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1969285622-b2000000.m3u8
-#EXTINF:-1 ,Салават Юлаев (1940)
-https://vs30.vcdn.biz/fb536ef4e8500ec080802f727381ebe3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/29587471/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1239125364-b900000.m3u8
-#EXTINF:-1 ,Семья Коцюбинских 1 серия (1970)
-https://vs57.vcdn.biz/b9b788ddb9490fe18d582c9e5008a84a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/238901/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid64619889-b2000000.m3u8
 #EXTINF:-1 ,Так сложились звезды (2016)
 https://vs7.vcdn.biz/3df5853d16766d7896ea84cec3c37dd9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/69872421/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1762778281-b2000000.m3u8
-#EXTINF:-1 ,Этюды о Врубеле (1989)
-https://vs15.vcdn.biz/d19925fc93a23a84bd4f0b3f64fb8ff3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/215511/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1550322496-b2000000.m3u8
-#EXTINF:-1 ,Юность Петра 2 серия (1980)
-https://vs52.vcdn.biz/bd57f14e6750fe7c9d9e13a513e4116e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/166841/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1949608254-b2000000.m3u8
 #EXTINF:-1 ,13-й район: Ультиматум (2009)
 https://vs8.vcdn.biz/eaafea3320cb012566d62af8a56c44f0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84761/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid1140936118-b2000000.m3u8
 #EXTINF:-1 ,22 минуты (2014)
@@ -883,8 +816,6 @@ https://vs39.vcdn.biz/0fa7d2eb723b420aca7d777e215a3574_megogo/vod/hls/b/450_900_
 https://vs57.vcdn.biz/d9bd12b2ac6225abb51d71d2212292cd_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/85441/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid2041131469-b2000000.m3u8
 #EXTINF:-1 ,Бунраку (2010)
 https://vs49.vcdn.biz/5eee156b3a7068160f47082937eed1df_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/143341/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid341179353-b2000000.m3u8
-#EXTINF:-1 ,В зоне особого внимания (1977)
-https://vs40.vcdn.biz/4e0e5b33799bb7e394368f98955b3a1d_megogo/vod/hls/b/450_900_1350_2000/o/18362881/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1794592472-b2000000.m3u8
 #EXTINF:-1 ,Виктор (2014)
 https://vs47.vcdn.biz/a1ea53d5002f6b2211c862a4cce7f27f_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/32898491/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1318636257-b2000000.m3u8
 #EXTINF:-1 ,Власть убеждений (2013)
@@ -925,18 +856,6 @@ https://vs59.vcdn.biz/decf48d08014e8087b2b58d94e0432ec_megogo/vod/hls/b/450_900_
 https://vs48.vcdn.biz/62841be251b48a37f113efb6481bc4db_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76607261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid186719931-b2000000.m3u8
 #EXTINF:-1 ,Дама треф 2 серия (2019)
 https://vs15.vcdn.biz/8dcf50ca56fc6df5957b58cd14efc1af_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/76608031/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1269442759-b2000000.m3u8
-#EXTINF:-1 ,Два билета на дневной сеанс (1966)
-https://vs10.vcdn.biz/46d7a2a626d444394344ae74762bd478_megogo/vod/hls/b/450_900_1350/u_sid/0/o/233521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid341757664-b1350000.m3u8
-#EXTINF:-1 ,Два долгих гудка в тумане (1980)
-https://vs7.vcdn.biz/77e365487c4fcc6c3905b34982d171b1_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/275111/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1524668895-b2000000.m3u8
-#EXTINF:-1 ,Дела давно минувших дней (1972)
-https://vs50.vcdn.biz/f274f47b9aa9360252fb5b20297e3f8d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/196321/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid188425788-b2000000.m3u8
-#EXTINF:-1 ,Дело Румянцева (1955)
-https://vs22.vcdn.biz/ecb44e7e41dd670d6813c061a8df13ae_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/162311/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid657956701-b2000000.m3u8
-#EXTINF:-1 ,Десять негритят 1 серия (1987)
-https://vs52.vcdn.biz/126fa1328c1771e6ed45b3bd2e657a69_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/137241/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid843321145-b2000000.m3u8
-#EXTINF:-1 ,Десять негритят 2 серия (1987)
-https://vs51.vcdn.biz/9fa19f841e7689d22ad46c0987106b07_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/165551/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1531921888-b1500000.m3u8
 #EXTINF:-1 ,Дитя тьмы (2019)
 https://vs55.vcdn.biz/5a6bcf45a9ad6c456e088c198c84003a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/79399591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid12978081-b2000000.m3u8
 #EXTINF:-1 ,Дом свиданий (1991)
@@ -1301,14 +1220,8 @@ https://vs21.vcdn.biz/33601066ff039484e824b2eec459d9f0_megogo/vod/hls/b/450_900_
 https://vs54.vcdn.biz/b0c70dd76da2443e2210c274546f126c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87711/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid1762644615-b2000000.m3u8
 #EXTINF:-1 ,Теория заговора (2014)
 https://vs53.vcdn.biz/13a34f742a631e6d57facba50159377e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1993841/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid1454364097-b2000000.m3u8
-#EXTINF:-1 ,Тихий Дон 1 серия (1957)
-https://vs49.vcdn.biz/c78ef7c8544759aa7442b89460d14a32_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/143571/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1761905723-b1500000.m3u8
-#EXTINF:-1 ,Тихий Дон 2 серия (1957)
-https://vs34.vcdn.biz/5b6e083014d7e8fc883d4018c65f6da4_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/155971/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1596176787-b1500000.m3u8
 #EXTINF:-1 ,Только представь! (2012)
 https://vs46.vcdn.biz/08da8a833e3f2e905ce29de973efae1b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/3547691/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid148101905-b2000000.m3u8
-#EXTINF:-1 ,Торпедоносцы (1983)
-https://vs39.vcdn.biz/6a4e10ce8c81ab3b355c39aa9c3459b7_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/134051/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1443015301-b1500000.m3u8
 #EXTINF:-1 ,Точка невозврата (2018)
 https://vs55.vcdn.biz/45764e7b544a57693c1b850846a35d06_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58107261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid183834868-b2000000.m3u8
 #EXTINF:-1 ,Трамбо (2016)
@@ -1325,40 +1238,22 @@ https://vs39.vcdn.biz/cc6ddd62635d462018e1fb4b27500ffc_megogo/vod/hls/b/450_900_
 https://vs53.vcdn.biz/ce477d097af858327a1147033d9e311a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33530781/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1675154034-b2000000.m3u8
 #EXTINF:-1 ,У нас есть Папа! (2011)
 https://vs52.vcdn.biz/2da340be33f7750da2049310d59717ad_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/160441/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid851224899-b2000000.m3u8
-#EXTINF:-1 ,У них есть Родина (1949)
-https://vs21.vcdn.biz/64bfc5e67385bbb4b44fee05fdfba187_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/30092261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1954747778-b2000000.m3u8
-#EXTINF:-1 ,У озёра (1969)
-https://vs7.vcdn.biz/e7a46a366b2fad7c745b432d7b035d27_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/233681/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid494541813-b2000000.m3u8
-#EXTINF:-1 ,У призраков в плену (1984)
-https://vs39.vcdn.biz/a72c913850554760e5cfb8bc25872567_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/310601/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid367288760-b2000000.m3u8
 #EXTINF:-1 ,Убить дракона (1988)
 https://vs9.vcdn.biz/45be9ac72e252ad5772474dd7c3ce938_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692051/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1806201984-b2000000.m3u8
 #EXTINF:-1 ,Убить короля (2003)
 https://vs49.vcdn.biz/f9e824b0ed0f173336032f84f268d019_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/13670381/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1572352220-b2000000.m3u8
 #EXTINF:-1 ,Узнай меня (1979)
 https://vs17.vcdn.biz/e2811c238464f864a9555551a8001369_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/227321/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid841002467-b2000000.m3u8
-#EXTINF:-1 ,Укрощение огня (1972)
-https://vs42.vcdn.biz/ab06775c9157cd2c30a5f5cecd87828f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692041/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1309065870-b2000000.m3u8
 #EXTINF:-1 ,Унижение (2015)
 https://vs17.vcdn.biz/4abd52aa5f1e221bbaa831747442d540_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/25018621/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid223481114-b2000000.m3u8
 #EXTINF:-1 ,Успех (1984)
 https://vs42.vcdn.biz/0dc8d97d9293f00897edbd14dd5fce0b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17692031/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1870537462-b2000000.m3u8
-#EXTINF:-1 ,Фантазии Фарятьева 1 серия (1979)
-https://vs20.vcdn.biz/39b4f723b748db4e59f26d5133384e03_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/261251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1420639878-b2000000.m3u8
-#EXTINF:-1 ,Фантазии Фарятьева 2 серия (1979)
-https://vs49.vcdn.biz/dbc04e0812ce9627969005bfc673c36b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/270841/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2046763952-b2000000.m3u8
 #EXTINF:-1 ,Филомена (2013)
 https://vs17.vcdn.biz/a02a06ddafc077c1ca18027c1be56aea_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35687721/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid1467132420-b2000000.m3u8
 #EXTINF:-1 ,#EXTGRP:Фэнтези
 https://vs16.vcdn.biz/82a7f1b0797fb2ce61c9a50bb1e2b79a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34660201/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid909989114-b2000000.m3u8
 #EXTINF:-1 ,Богдан-Зиновий Хмельницкий (2006)
 https://vs21.vcdn.biz/133abf2541ab58cc7f1256c059966ec0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/101591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1071316383-b2000000_17.m3u8
-#EXTINF:-1 ,вперед! 1 серия (1987)
-https://vs7.vcdn.biz/9e8bedd6dd6a342e0fc8b9d32a340b97_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24923101/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid684628179-b2000000.m3u8
-#EXTINF:-1 ,вперед! 2 серия (1987)
-https://vs51.vcdn.biz/c886017950cceb51425d727e3578e5f0_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24925001/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1358869079-b2000000.m3u8
-#EXTINF:-1 ,вперед! 4 серия (1987)
-https://vs54.vcdn.biz/58d555df595ffabca68cbbb278e42c72_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24923111/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid796006310-b2000000.m3u8
 #EXTINF:-1 ,Круты 1918 (2019)
 https://vs57.vcdn.biz/928f406238700bae2df8217bc972b60a_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/75983051/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1085882409-b2000000.m3u8
 #EXTINF:-1 ,Молодая Виктория (2009)
@@ -1367,36 +1262,12 @@ https://vs22.vcdn.biz/4ea4a6cb74cf6c153338f1c801563dea_megogo/vod/hls/b/450_900_
 https://vs34.vcdn.biz/8c3cf335809387137c28a119b0598060_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83291/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1081801313-b2000000.m3u8
 #EXTINF:-1 ,Седая легенда (1991)
 https://vs59.vcdn.biz/04a0135bb79ca48064662233e6b3e52f_megogo/vod/hls/b/450_900_1350_2000/o/46307913/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid404577666-b2000000.m3u8
-#EXTINF:-1 ,Сердце Бонивура 1 серия (1971)
-https://vs49.vcdn.biz/33568c7918d08fbfc0c69106c209cca8_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/204981/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2135280350-b1500000.m3u8
-#EXTINF:-1 ,Сердце Бонивура 2 серия (1971)
-https://vs9.vcdn.biz/f54ff816dbc7816a52e35e4474b2a85e_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/224231/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1989808772-b1500000.m3u8
 #EXTINF:-1 ,Талан (2018)
 https://vs7.vcdn.biz/322c501f57a729a9a4d49525abd633c7_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/83217191/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2107097206-b2000000.m3u8
-#EXTINF:-1 ,Хареба и Гоги (1987)
-https://vs53.vcdn.biz/ec93227be6f82080057dc905ad51bbba_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/30054091/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid848364488-b2000000.m3u8
-#EXTINF:-1 ,Чёрный капитан (1973)
-https://vs9.vcdn.biz/c0e345deb148f4b7dc3f8b4042039781_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/171691/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid16083680-b2000000.m3u8
-#EXTINF:-1 ,Щорс (1939)
-https://vs42.vcdn.biz/2388197eb6b122354d253d8fd0e02c55_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/227501/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1738387610-b2000000.m3u8
-#EXTINF:-1 ,королева Франции (1978)
-https://vs9.vcdn.biz/96ef4145536393b18cdcc0d07e18a0e6_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/215691/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1109557372-b2000000.m3u8
-#EXTINF:-1 ,Ярость (1966)
-https://vs51.vcdn.biz/02e65a719d7f839cda7cd281cf62066d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/179251/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid242537652-b1350000.m3u8
-#EXTINF:-1 ,12 стульев 2 серия (1971)
-https://vs12.vcdn.biz/bb718923a32acb7afe59ffa825f01031_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24917601/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1837137584-b2000000.m3u8
-#EXTINF:-1 ,12 стульев 1 серия (1976)
-https://vs16.vcdn.biz/5d641631993507598053b7cd4b7db340_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/143361/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2139357557-b1500000.m3u8
-#EXTINF:-1 ,12 стульев 2 серия (1976)
-https://vs42.vcdn.biz/aabb4d885071375c981c8b4819cef48f_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/165171/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1896969570-b1500000.m3u8
-#EXTINF:-1 ,12 стульев 3 серия (1976)
-https://vs9.vcdn.biz/4e5f34ec65169af6fb4951db8adba457_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/171211/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1381973213-b1500000.m3u8
 #EXTINF:-1 ,21 и больше (2013)
 https://vs16.vcdn.biz/154f120ec6a627f5c1614b5f5e78dc50_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/368771/u_uid/0/u_vod/3/u_device/cms_html5/a/10/type.amlst/chunklist-sid1597498692-b2000000.m3u8
 #EXTINF:-1 ,32-е декабря (2004)
 https://vs56.vcdn.biz/7a35fcd44512bfcb10911f1a49c7111b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/252111/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1944656673-b2000000.m3u8
-#EXTINF:-1 ,4:0 в пользу Танечки (1982)
-https://vs55.vcdn.biz/6c2ecbfa2b1f01c13e07450738a5b65f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/222141/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid250363645-b2000000.m3u8
 #EXTINF:-1 ,8 новых свиданий (2012)
 https://vs15.vcdn.biz/6c681a137c81c978faad29783a0777f9_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/29521911/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1984374933-b2000000.m3u8
 #EXTINF:-1 ,Prada и чувства (2011)
@@ -1405,12 +1276,6 @@ https://vs47.vcdn.biz/464c578c07875e395a8378aac96b3827_megogo/vod/hls/b/450_900_
 https://vs42.vcdn.biz/335a93a722ffb6a505df08474ec8100e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/11794441/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid986608372-b2000000.m3u8
 #EXTINF:-1 ,А вот и она (2014)
 https://vs49.vcdn.biz/b659d77cbecb102c411a1ae433d70f5c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/8054751/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid852491367-b2000000.m3u8
-#EXTINF:-1 ,А вы любили когда-нибудь? (1973)
-https://vs53.vcdn.biz/d2f5edd5d75188ff9796a5a537214f1c_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/302711/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid795478310-b2000000.m3u8
-#EXTINF:-1 ,Ангел в тюбетейке (1968)
-https://vs46.vcdn.biz/98516d94dcbba38d11d68073a135899e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/69868301/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1271833049-b2000000.m3u8
-#EXTINF:-1 ,Артист из Кохановки (1961)
-https://vs47.vcdn.biz/d269890d9fcbdb61b065e9cb6751bdad_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/226721/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid377330884-b2000000.m3u8
 #EXTINF:-1 ,Астерикс и Обеликс в Британии (2012)
 https://vs19.vcdn.biz/b65506baeccdfd2ef92ab9800a759df4_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/497651/u_uid/0/u_vod/3/u_device/cms_html5/a/8/type.amlst/chunklist-sid33381339-b2000000.m3u8
 #EXTINF:-1 ,Астерикс на Олимпийских играх (2008)
@@ -1419,24 +1284,16 @@ https://vs42.vcdn.biz/1d0c093c0ad592249aa821970bcb50eb_megogo/vod/hls/b/450_900_
 https://vs34.vcdn.biz/429e56574405d6cd339447e960361d1d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/33303191/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid297713268-b2000000.m3u8
 #EXTINF:-1 ,Афоня (1975)
 https://vs15.vcdn.biz/1a87ebe810ca12c66982f82d59e0eaeb_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/17552381/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid212598019-b2000000.m3u8
-#EXTINF:-1 ,водевиль... (1979)
-https://vs46.vcdn.biz/ccf760c9eafac1a1295ea5e26f4afb12_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18363261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2140954226-b2000000.m3u8
-#EXTINF:-1 ,Баламут (1978)
-https://vs15.vcdn.biz/3b9997df67404b4400c5afa7b244e7c4_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/27128021/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid934097489-b2000000.m3u8
 #EXTINF:-1 ,Беби-бум 1 серия (2016)
 https://vs53.vcdn.biz/ab5566437251162edae2ced0659006b2_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/73131131/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1316911556-b2000000.m3u8
 #EXTINF:-1 ,Беби-бум 2 серия (2016)
 https://vs39.vcdn.biz/05aca64a848c9f980ab54bcf9fe23f8b_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/73131591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1483420809-b2000000.m3u8
 #EXTINF:-1 ,Безумные преподы (2013)
 https://vs30.vcdn.biz/017a64ca954d18719a9e4e26ecf6da5d_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/1192261/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1875694648-b2000000.m3u8
-#EXTINF:-1 ,Безумный день (1956)
-https://vs42.vcdn.biz/7b405ff8e57fa6eda0bb044c5889d65f_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/18363101/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid340301993-b2000000.m3u8
 #EXTINF:-1 ,Берегись автомобиля (1966)
 https://vs40.vcdn.biz/60d68643dbf13a6db08bad8dd32b9ade_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/69644581/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1968855940-b2000000.m3u8
 #EXTINF:-1 ,Беременный (2011)
 https://vs34.vcdn.biz/5ad8fc2d722b835f6777ac8e7b0f6ea0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35647621/u_uid/0/u_vod/3/u_device/cms_html5/a/1/type.amlst/chunklist-sid860256339-b2000000.m3u8
-#EXTINF:-1 ,Беспокойная весна (1956)
-https://vs30.vcdn.biz/c076f4f8a27d7ad6173b01a167fe1b28_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/69867591/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid13498455-b2000000.m3u8
 #EXTINF:-1 ,Благородные бродяги (2018)
 https://vs19.vcdn.biz/b13f45681a59ec6ebbb14920c5432ed5_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71189121/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid239309447-b2000000.m3u8
 #EXTINF:-1 ,Блондинка в эфире (2014)
@@ -1445,16 +1302,8 @@ https://vs40.vcdn.biz/ab2f8c58c8ab395d9f39f1a3a0b0be30_megogo/vod/hls/b/450_900_
 https://vs34.vcdn.biz/bdad39649ce487e24ad9cf327ccba4d7_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/144291/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1644246241-b2000000.m3u8
 #EXTINF:-1 ,Блондинка с амбициями (2007)
 https://vs37.vcdn.biz/0daf864a5a8b2119151727cdb11bacc0_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/143611/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid656317246-b2000000.m3u8
-#EXTINF:-1 ,Бобры-зомби (2014)
-https://vs16.vcdn.biz/8c6e0385c9126d8dd77154e42a689e25_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/58463611/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1969601462-b2000000.m3u8
 #EXTINF:-1 ,Богатая невеста (1937)
 https://vs22.vcdn.biz/5be26cf8bd8b23eec16e17d91fb28b36_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/236951/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2111877932-b1500000.m3u8
-#EXTINF:-1 ,Большая перемена 1 серия (1972)
-https://vs54.vcdn.biz/ea5a794aa006a6547787a29dd67f03e2_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961521/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1504005301-b2000000.m3u8
-#EXTINF:-1 ,Большая перемена 3 серия (1972)
-https://vs42.vcdn.biz/5fb087e00c2c44f0565cd2e6b377ebcd_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961551/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid124859696-b2000000.m3u8
-#EXTINF:-1 ,Большая перемена 4 серия (1972)
-https://vs56.vcdn.biz/8ca3886e5199876125f300b94401c789_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24961611/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2042724841-b2000000.m3u8
 #EXTINF:-1 ,Большая свадьба (2013)
 https://vs53.vcdn.biz/423ba6e00afa22b72494b01b4acb3b3c_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/12052371/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid249206336-b2000000.m3u8
 #EXTINF:-1 ,Брачный договор (2013)
@@ -1510,7 +1359,6 @@ https://vs52.vcdn.biz/373fcf9bbd022154b69a1369306c0db9_megogo/vod/hls/b/450_900_
 #EXTINF:-1 ,Лунная афера (2016)
 https://vs17.vcdn.biz/cfadd2456583dbbb82f44516bfdc21be_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/29113881/u_uid/0/u_vod/3/u_device/cms_html5/a/6/type.amlst/chunklist-sid430074383-b2000000.m3u8
 #EXTINF:-1 ,Любимая женщина механика Гаврилова (1981)
-https://vs51.vcdn.biz/a47435eed98ed3555a363c3bb3a9e7d3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17786441/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1989243892-b2000000.m3u8
 #EXTINF:-1 ,Любите Куперов (2015)
 https://vs30.vcdn.biz/77c3e783e8619943319baac9c54a6d95_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/34356611/u_uid/0/u_vod/3/u_device/cms_html5/a/5/type.amlst/chunklist-sid894856469-b2000000.m3u8
 #EXTINF:-1 ,Люблю твою жену (2013)
@@ -1555,16 +1403,12 @@ https://vs47.vcdn.biz/c556a28dd7029b26c63559e4a3c5efd6_megogo/vod/hls/b/450_900_
 https://vs53.vcdn.biz/f7219345a8068664c05d91c4ab537a59_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/35341931/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1453711388-b2000000.m3u8
 #EXTINF:-1 ,Муви 43 (2013)
 https://vs50.vcdn.biz/ca7529731c641f2673e5886acac63218_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/98281/u_uid/0/u_vod/3/u_device/cms_html5/a/9/type.amlst/chunklist-sid351669748-b2000000.m3u8
-#EXTINF:-1 ,Мы из джаза (1983)
-https://vs36.vcdn.biz/21e0926bc0eac02d9e3d5909121a6259_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/17553021/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2055608579-b2000000.m3u8
 #EXTINF:-1 ,Мы с вами где-то встречались (1954)
 https://vs53.vcdn.biz/6b0428a67a66ea6182b810c914cf19e2_megogo/vod/hls/b/450_900_1350_2000/o/17776431/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1895848628-b2000000.m3u8
 #EXTINF:-1 ,Настя (1994)
 https://vs20.vcdn.biz/829be594f1fbd2a3814273d406349462_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/46296551/u_uid/0/u_vod/3/u_device/cms_html5/u_devicekey/_site/a/0/type.amlst/chunklist-sid392352759-b2000000.m3u8
 #EXTINF:-1 ,Наша Russia: Яйца судьбы (2010)
 https://vs19.vcdn.biz/e4c9d8dc923c0e36ce51a5745047708e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87981/u_uid/0/u_vod/3/u_device/cms_html5/a/4/type.amlst/chunklist-sid994866842-b2000000.m3u8
-#EXTINF:-1 ,Не имей 100 рублей... (1959)
-https://vs50.vcdn.biz/1b0dd0fee389f8850878a40c7d17394e_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/236301/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid793400795-b1500000.m3u8
 #EXTINF:-1 ,Не может быть! (1975)
 https://vs19.vcdn.biz/fb3a146d6ca3e2c3b64520dba31452cb_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17552931/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid205833008-b2000000.m3u8
 #EXTINF:-1 ,Невероятные приключения американца в Армении (2012)
@@ -1859,12 +1703,8 @@ https://vs39.vcdn.biz/e139d29b286720bc78163937d150adee_megogo/vod/hls/b/450_900_
 https://vs58.vcdn.biz/a5a2eef16ba5a83856cb8631e0be3396_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/50208261/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid828689081-b2000000.m3u8
 #EXTINF:-1 ,Сережа (1960)
 https://vs43.vcdn.biz/ce613e8d9d3801f7fb2938e7bda911b9_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17749141/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1408365513-b2000000.m3u8
-#EXTINF:-1 ,как царь Петр арапа женил (1976)
-https://vs49.vcdn.biz/322b63e971337133412e50d7255facdf_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17748981/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1654653729-b2000000.m3u8
 #EXTINF:-1 ,Слоны могут играть в футбол (2018)
 https://vs53.vcdn.biz/bcd416f4a87b0e636141b912383f8949_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/71888221/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid123696503-b2000000.m3u8
-#EXTINF:-1 ,Три тополя на Плющихе (1968)
-https://vs6.vcdn.biz/7c066da328a8688e3b77ed5ff2d3481e_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/221031/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1015980294-b2000000.m3u8
 #EXTINF:-1 ,Трое в лабиринте 1 серия (2018)
 https://vs40.vcdn.biz/483d4bb890e694c0c2b84368733e8cbc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/65746531/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1310728423-b2000000.m3u8
 #EXTINF:-1 ,Трое в лабиринте 2 серия (2018)
@@ -1911,14 +1751,6 @@ https://vs47.vcdn.biz/69fb298cb66fac68f97081ddb7c50d7f_megogo/vod/hls/b/450_900_
 https://vs9.vcdn.biz/19dce8b661ac3080ef5d9295ced0342e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/17691751/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1924472677-b2000000.m3u8
 #EXTINF:-1 ,Яблоко на ладони (1981)
 https://vs16.vcdn.biz/efd8a4c1dbc4ced42cf082178b323578_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/279171/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1607500039-b2000000.m3u8
-#EXTINF:-1 ,#EXTGRP:Мистика
-https://vs10.vcdn.biz/35ae95b1d4a461e1525bce35605a5904_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/84981/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2115101647-b2000000.m3u8
-#EXTINF:-1 ,#EXTGRP:Мистика
-https://vs58.vcdn.biz/073010fdc7cf1b9854a0a206572fbabc_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/3150121/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1539494160-b2000000.m3u8
-#EXTINF:-1 ,#EXTGRP:Мистика
-https://vs53.vcdn.biz/15a27068348987b4ef0833887fe97cb3_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/87341/u_uid/0/u_vod/3/u_device/cms_html5/a/7/type.amlst/chunklist-sid907800803-b2000000.m3u8
-#EXTINF:-1 ,#EXTGRP:Мистика
-https://vs40.vcdn.biz/6dcd0466769b754d979efcfd27dfe243_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/77285621/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1975278750-b2000000.m3u8
 #EXTINF:-1 ,1+1 Дома.Новый год HD (2013)
 https://vs43.vcdn.biz/69ce8d7112995f3f0a4137f48045b436_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/39287121/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1879473257-b2000000.m3u8
 #EXTINF:-1 ,Алиса в стране чудес шоу (2014)
@@ -1998,7 +1830,6 @@ https://vs41.vcdn.biz/c3c2b8b824e19d0cdc393079e7d597fe_megogo/vod/hls/b/450_900_
 #EXTINF:-1 ,Д'Артаньян и три мушкетера 3 серия (1978)
 https://vs17.vcdn.biz/188229028f26dac09978eac2eb4f9056_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/140791/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid342210288-b2000000.m3u8
 #EXTINF:-1 ,Даниил князь Галицкий (1987)
-https://vs7.vcdn.biz/1dc20e5de6ea3bee2a14217a47a74ac3_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/157981/u_uid/0/u_vod/3/u_device/cms_html5/a/2/type.amlst/chunklist-sid1628411023-b1500000.m3u8
 #EXTINF:-1 ,Два капитана 1 серия (1976)
 https://vs21.vcdn.biz/34475b875a3299a156f73d01ee3d7b90_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24923131/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid785681652-b2000000.m3u8
 #EXTINF:-1 ,Два капитана 2 серия (1976)
@@ -2011,12 +1842,6 @@ https://vs48.vcdn.biz/4075e54f194b6cb3201fdb48b9070681_megogo/vod/hls/b/450_900_
 https://vs7.vcdn.biz/e737cd92be3d3ad79f9c563d7fb2f3e0_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924941/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2099833392-b2000000.m3u8
 #EXTINF:-1 ,Два капитана 6 серия (1976)
 https://vs50.vcdn.biz/c537cc70c5c466153db6e8f0c34ceae3_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/24924951/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2068469056-b2000000.m3u8
-#EXTINF:-1 ,Злой дух Ямбуя (1977)
-https://vs40.vcdn.biz/6d10af77f2709b241307293592ac285e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/160751/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid584421596-b2000000.m3u8
-#EXTINF:-1 ,Золотая речка (1976)
-https://vs59.vcdn.biz/0e16716cb788f0e9d8c0012bd055483e_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/193701/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid506116829-b2000000.m3u8
-#EXTINF:-1 ,Золотая цепь (1986)
-https://vs42.vcdn.biz/a90ded8756c8e91db16d8b5bcff29a2d_megogo/vod/hls/b/450_900_1350_1500/u_sid/0/o/255481/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1158078252-b1500000.m3u8
 #EXTINF:-1 ,Крик зверя (2010)
 https://vs30.vcdn.biz/533237f303016fc3b61809732311e48d_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/28773621/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid985297094-b2000000.m3u8
 #EXTINF:-1 ,Ларго Винч: Начало (2008)
@@ -2031,8 +1856,6 @@ https://vs47.vcdn.biz/8245aed9186cc98486ed015e9095172a_megogo/vod/hls/b/450_900_
 https://vs56.vcdn.biz/0ea29ab73d5c4268e85742d362110945_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/513991/u_uid/0/u_vod/3/u_device/cms_html5/a/11/type.amlst/chunklist-sid345548782-b2000000.m3u8
 #EXTINF:-1 ,Приключения Гекльберри Финна (2013)
 https://vs19.vcdn.biz/fda73d33a0d3041c137d876c32846ec8_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/28774181/u_uid/0/u_vod/3/u_device/cms_html5/a/3/type.amlst/chunklist-sid1908961706-b2000000.m3u8
-#EXTINF:-1 ,Принц и нищий (1972)
-https://vs47.vcdn.biz/cd69fbda2c4a5ca7c7fc7d31d9abb36b_megogo/vod/hls/b/450_900_1350_2000/u_sid/0/o/208711/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid2002479002-b2000000.m3u8
 #EXTINF:-1 ,Путевка в жизнь (2013)
 https://vs48.vcdn.biz/e8a905df8a4c80b748250b4e2252f9ca_megogo/vod/hls/b/450_900_1350_1500_2000/u_sid/0/o/45240191/u_uid/0/u_vod/3/u_device/cms_html5/a/0/type.amlst/chunklist-sid1514046803-b2000000.m3u8
 #EXTINF:-1 ,Санктум (2010)
@@ -2325,10 +2148,6 @@ https://h1.hdru.net/server/kino/Avangard.1080.mp4/index-v1-a1.m3u8
 https://h2.hdru.net/server_2/kino/Avatar.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1534515724.jpg",Агент Джонни Инглиш 3 (2018)
 https://h2.hdru.net/server_2/kino/Agent_Dzhonni_Inglish_3.1080.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1539601630.jpg",Агент Коди Бенкс (2003)
-https://h1.hdru.net/server_2/kino/Agent_Cody_Banks.1080.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1539601631.jpg",Агент Коди Бенкс 2 (2004)
-https://h1.hdru.net/server_2/kino/Agent_Cody_Banks_2.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1612703091.jpg",Агент Роза: Мишень киллера (2019)
 https://h2.hdru.net/server/kino/Agent_Roza:_Mishen_killera.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494141083.jpg",Агенты А.Н.К.Л. (2015)
@@ -3047,14 +2866,6 @@ https://h1.hdru.net/server_2/kino/Golyshome.1080.mp4/index-v1-a1.m3u8
 https://h1.hdru.net/server_2/kino/Gonka_veka.hd.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1520335922.jpg",Гордая Мэри (2018)
 https://h1.hdru.net/server_2/kino/Gordaya_Meri.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1531373227.jpg",Горец (1986)
-https://h1.hdru.net/server_2/kino/Gorec.1080.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1531373228.jpg",Горец 2: Оживление (1991)
-https://h1.hdru.net/server_2/kino/Gorec_2.1080.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1531373229.jpg",Горец 3: Последнее измерение (1994)
-https://h1.hdru.net/server_2/kino/Gorec_3.mp4/index-v1-a1.m3u8
-#EXTINF:-1  tvg-logo="https://hdru.net/posters/1531373231.jpg",Горец 4: Конец игры (2000)
-https://h1.hdru.net/server_2/kino/Gorec_4.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1561570843.jpg",гори ясно (2019)
 https://h2.hdru.net/server_2/kino/Gori_gori_yasno.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1528302198.jpg",Город грехов (2005)
@@ -3564,22 +3375,31 @@ https://h1.hdru.net/server_5/kino/Zvezdnaya_pyl.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1521555176.jpg",Звездные войны (перевод Гоблина) (1999)
 https://h1.hdru.net/server_5/kino/Zvezdnye_voyny_Goblin.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1513607667.jpg",Звездные войны: Последние джедаи (2017)
+#EXTGRP: Фильмы
 https://h1.hdru.net/server_5/kino/Zvezdnye_voyny_8.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1589401544.jpg",Звездные войны: Пробуждение силы (2015)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_7.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142488.jpg",Звездные войны: Эпизод 1 - Скрытая угроза (1999)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_1.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142495.jpg",Звездные войны: Эпизод 2 - Атака клонов (2002)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_2.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142501.jpg",Звездные войны: Эпизод 3 - Месть Ситхов (2005)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_3.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142506.jpg",Звездные войны: Эпизод 4 - Новая надежда (1977)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_4.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142512.jpg",Звездные войны: Эпизод 5 - Империя наносит отвеный удар (1980)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_5.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1494142518.jpg",Звездные войны: Эпизод 6 - Возвращение Джедая (1983)
+#EXTGRP: Фильмы
 https://h3.hdru.net/server/kino/Zvezdnye_voyny_6.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1572194212.jpg",Звездные войны:Скайуокер. Восход (2019)
+#EXTGRP: Фильмы
 https://h2.hdru.net/server/kino/Zvezdnye_Voyny_9.1080.mp4/index-v1-a1.m3u8
 #EXTINF:-1  tvg-logo="https://hdru.net/posters/1554297938.jpg",Звездные врата (1994)
 https://h2.hdru.net/server/kino/Zvezdnye_vrata.1080.mp4/index-v1-a1.m3u8
