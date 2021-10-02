@@ -100,6 +100,9 @@ http://tv3.newline.in.ua:9105/nstv/index.m3u8
 #EXTGRP:Кино
 http://31.131.136.4:9104/fan/index.m3u8
 
+#EXTINF:0 group-title="TB Newline" tvg-name="ViP SERIAL HD" tvg-shift="-0" , ViP SERIAL HD
+#EXTGRP:Сериалы
+http://31.131.136.5:9108/ViPSERIALHD/index.m3u8
 #EXTINF:0 tvg-name="Amedia 1" tvg-shift="-0" , Amedia 1
 #EXTGRP:Сериалы
 http://tv3.newline.in.ua:9105/a1/index.m3u8
