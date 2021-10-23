@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Дюна (2021)
-https://88a-fb8-1039g0.streamalloha.live/hs/41/1635032277/ZBsdbfnYG7kjevxE0ID35A/731/494731/4/index-f2-v1-sa4-a1.m3u8
+#EXTGRP:Фильмы
+https://88a-fb8-1039g0.streamalloha.live/hs/41/1635033082/PFa30pju0Dxv5s4dUbA_ng/731/494731/4/master.m3u8
 #EXTINF:-1,Никто (2021)
 #EXTGRP:Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Nikto.2021.D.HDRip.1.46Gb_ExKinoRay_by_Twi7ter/playlist.m3u8
