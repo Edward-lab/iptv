@@ -76,7 +76,7 @@ https://hls.kinoprofi.vip/hls/Narko.s1.Lost.08/playlist.m3u8
 #EXTGRP:Нарко 1сез
 https://hls.kinoprofi.vip/hls/Narko.s1.Lost.09/playlist.m3u8
 #EXTINF:-1, 10с.
-#EXTGRP:-1,Нарко 1сез
+#EXTGRP:Нарко 1сез
 https://hls.kinoprofi.vip/hls/Narko.s1.Lost.10/playlist.m3u8
 
 #EXTINF:-1, 1с.
