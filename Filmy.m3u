@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Дюна (2021)
-#EXTGRP:Фильмы
-https://88a-fb8-1039g0.streamalloha.live/hs/41/1635033082/PFa30pju0Dxv5s4dUbA_ng/731/494731/4/master.m3u8
 #EXTINF:-1,Никто (2021)
 #EXTGRP:Фильмы
 https://hls.kinoprofi.vip/hls/Lic.Nikto.2021.D.HDRip.1.46Gb_ExKinoRay_by_Twi7ter/playlist.m3u8
@@ -50,6 +47,99 @@ https://bk2-hls.kinoprofi.vip/hls/V.belom.plenu.2012.P.HDRip/playlist.m3u8
 #EXTINF:-1,Снайпер (2015)
 #EXTGRP:Фильмы
 https://bk2-hls.kinoprofi.vip/hls/Sniper.2015.HDRip/playlist.m3u8
+
+#EXTINF:-1, 1с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.01/playlist.m3u8
+#EXTINF:-1, 2с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.02/playlist.m3u8
+#EXTINF:-1, 3с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.03/playlist.m3u8
+#EXTINF:-1, 4с.
+#EXTGRP:Нарко 1сез
+https://bk-hls.kinoprofi.vip/hls/Narko.s1.Lost.04/playlist.m3u8
+#EXTINF:-1, 5с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.05/playlist.m3u8
+#EXTINF:-1, 6с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.06/playlist.m3u8
+#EXTINF:-1, 7с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.07/playlist.m3u8
+#EXTINF:-1, 8с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.08/playlist.m3u8
+#EXTINF:-1, 9с.
+#EXTGRP:Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.09/playlist.m3u8
+#EXTINF:-1, 10с.
+#EXTGRP:-1,Нарко 1сез
+https://hls.kinoprofi.vip/hls/Narko.s1.Lost.10/playlist.m3u8
+
+#EXTINF:-1, 1с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.01/playlist.m3u8
+#EXTINF:-1, 2с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.02/playlist.m3u8
+#EXTINF:-1, 3с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.03/playlist.m3u8
+#EXTINF:-1, 4с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.04/playlist.m3u8
+#EXTINF:-1, 5с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.05/playlist.m3u8
+#EXTINF:-1, 6с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.06/playlist.m3u8
+#EXTINF:-1, 7с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.07/playlist.m3u8
+#EXTINF:-1, 8с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.08/playlist.m3u8
+#EXTINF:-1, 9с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.09/playlist.m3u8
+#EXTINF:-1, 10с.
+#EXTGRP:Нарко 2сез
+https://bk2-hls.kinoprofi.vip/hls/Narki.s2.Lostfilm.10/playlist.m3u8
+
+#EXTINF:-1, 1с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.01/playlist.m3u8
+#EXTINF:-1, 2с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.02/playlist.m3u8
+#EXTINF:-1, 3с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.03/playlist.m3u8
+#EXTINF:-1, 4с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.04/playlist.m3u8
+#EXTINF:-1, 5с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost05/playlist.m3u8
+#EXTINF:-1, 6с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.06/playlist.m3u8
+#EXTINF:-1, 7с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.07/playlist.m3u8
+#EXTINF:-1, 8с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.08/playlist.m3u8
+#EXTINF:-1, 9с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.09/playlist.m3u8
+#EXTINF:-1, 10с.
+#EXTGRP:Нарко 3сез
+https://hls.kinoprofi.vip/hls/Narki.s3.Lost.10/playlist.m3u8
 
 #EXTINF:-1, 1с.
 #EXTGRP:Шестой отряд 1сез
