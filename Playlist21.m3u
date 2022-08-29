@@ -1,395 +1,213 @@
 #EXTM3U url-tvg="http://exstream.net.ua/iptv/jtv.zip,https://iptvx.one/EPG_LITE" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
-#EXTINF:0,Камера Площадь
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:8101/amvr1/index.m3u8
-#EXTINF:0 tvg-name="Euronews" tvg-shift="-0" , Euronews
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9110/Euronews/index.m3u8
-#EXTINF:0,ТНТ
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9106/tnt/index.m3u8
-#EXTINF:0,СТС
-#EXTGRP:Инфоразвлекательные
+#EXTINF:0 group-title="TB Newline" tvg-name="ТНТ" tvg-shift="-0" , ТНТ
+http://31.131.136.4:9114/tnt/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="Жара" tvg-shift="-0" , Жара
+http://31.131.136.4:9100/jara/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="СТС" tvg-shift="-0" , СТС
 http://31.131.136.4:9114/sts/index.m3u8
-#EXTINF:0,Пятница
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9115/pyatnica/index.m3u8
-#EXTINF:0 tvg-name="Суббота" tvg-shift="-0" , Суббота
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9106/subbota/index.m3u8
-#EXTINF:0 tvg-name="ЧЕ" tvg-shift="-0" , ЧЕ
-#EXTGRP:Инфоразвлекательные
+#EXTINF:0 group-title="TB Newline" tvg-name="СТС Love" tvg-shift="-0" , СТС Love
+http://31.131.136.4:9114/stslove/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="Домашний" tvg-shift="-0" , Домашний
+http://31.131.136.4:9114/Domashniy/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="ЧЕ" tvg-shift="-0" , ЧЕ
 http://31.131.136.4:9114/Che/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="Пятница" tvg-shift="-0" , Пятница
+http://31.131.136.4:9115/pyatnica/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="Суббота" tvg-shift="-0" , Суббота
+http://31.131.136.4:9106/subbota/index.m3u8
+#EXTINF:0 group-title="TB Newline" tvg-name="Точка отрыва" tvg-shift="-0" , Точка отрыва
+http://31.131.136.4:9110/tochkaotriva/index.m3u8
 
-#EXTINF:0, TV 1000
-#EXTGRP:Кино
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="VIP Comedy HD" tvg-shift="-0" , VIP Comedy HD
+http://tv3.newline.in.ua:9117/VIPComedyHD/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="VIP Megahit" tvg-shift="-0" , VIP Megahit
+http://tv3.newline.in.ua:9117/VIPMegahit/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="VIP Premiere" tvg-shift="-0" , VIP Premiere
+http://tv3.newline.in.ua:9117/VIPPremiere/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="VIP Serial HD" tvg-shift="-0" , VIP Serial HD
+http://tv3.newline.in.ua:8101/ViPSERIALHD/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Кино ТВ" tvg-shift="-0" , Кино ТВ
+http://tv3.newline.in.ua:9105/kinotv/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="TV 1000" tvg-shift="-0" , TV 1000
 http://tv3.newline.in.ua:9110/tv1000/index.m3u8
-#EXTINF:0 tvg-name="TV 1000 Action" tvg-shift="-0" , TV 1000 Action
-#EXTGRP:Кино
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="TV 1000 Action" tvg-shift="-0" , TV 1000 Action
 http://tv3.newline.in.ua:9110/tv1000actions/index.m3u8
-#EXTINF:0 tvg-name="TB 1000 Русское кино" tvg-shift="-0" , TB 1000 Русское кино
-#EXTGRP:Кино
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="TB 1000 Русское кино" tvg-shift="-0" , TB 1000 Русское кино
 http://tv3.newline.in.ua:9110/tv1000ruskino/index.m3u8
-#EXTINF:0 tvg-name="КИНОСЕМЬЯ" tvg-shift="-0" , КИНОСЕМЬЯ
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/kinosemya/index.m3u8
-#EXTINF:0 tvg-name="КИНОХИТ" tvg-shift="-0" , КИНОХИТ
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/kinohit/index.m3u8
-#EXTINF:0 tvg-name="КИНОКОМЕДИЯ" tvg-shift="-0" , КИНОКОМЕДИЯ
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/kinokomedia/index.m3u8
-#EXTINF:0 tvg-name="КИНОМИКС" tvg-shift="-0" , КИНОМИКС
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/kinomix/index.m3u8
-#EXTINF:0 tvg-name="Комедия" tvg-shift="-0" , Комедия
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9114/komedia/index.m3u8
-#EXTINF:0 tvg-name="Киноужас" tvg-shift="-0" , Киноужас
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9106/kinougas/index.m3u8
-#EXTINF:0 tvg-name="Мужское Кино" tvg-shift="-0" , Мужское Кино
-#EXTGRP:Кино
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Мужское Кино" tvg-shift="-0" , Мужское Кино
 http://tv3.newline.in.ua:9100/mujskoe_kino/index.m3u8
-#EXTINF:0 tvg-name="Киносвидание" tvg-shift="-0" , Киносвидание
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/kinosvidanie/index.m3u8
-#EXTINF:0 tvg-name="VIP Comedy" tvg-shift="-0" , VIP Comedy
-#EXTGRP:Кино
-http://tv7.newline.in.ua:9112/VIPComedyHD/index.m3u8
-#EXTINF:0 tvg-name="VIP Megahit" tvg-shift="-0" , VIP Megahit
-#EXTGRP:Кино
-http://tv7.newline.in.ua:9112/VIPMegahit/index.m3u8
-#EXTINF:0 tvg-name="VIP Premiere" tvg-shift="-0" , VIP Premiere
-#EXTGRP:Кино
-http://tv7.newline.in.ua:9112/VIPPremiere/index.m3u8
-#EXTINF:0 tvg-name="Иллюзион+" tvg-shift="-0" , Иллюзион+
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9105/illyzion/index.m3u8
-#EXTINF:0 tvg-name="Hollywood" tvg-shift="-0" , Hollywood
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9105/Hollywood/index.m3u8
-#EXTINF:0 tvg-name="Еврокино" tvg-shift="-0" , Еврокино
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9101/evrokino/index.m3u8
-#EXTINF:0 tvg-name="Paramount Channel" tvg-shift="-0" , Paramount Channel
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9110/ParamountChannel/index.m3u8
-#EXTINF:0 tvg-name="РОДНОЕ КИНО" tvg-shift="-0" , РОДНОЕ КИНО
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9100/rodnoekino/index.m3u8
-#EXTINF:0 tvg-name="Дом Кино" tvg-shift="-0" , Дом Кино
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9105/domkino/index.m3u8
-#EXTINF:0 tvg-name="Любимое Кино" tvg-shift="-0" , Любимое Кино
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9114/lubimiykino/index.m3u8
-#EXTINF:0 tvg-name="Русский иллюзион" tvg-shift="-0" , Русский иллюзион
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9105/rusiluzion/index.m3u8
-#EXTINF:0 tvg-name="Русский детектив" tvg-shift="-0" , Русский детектив
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9104/rus_detektiv/index.m3u8
-#EXTINF:0 tvg-name="Filmbox" tvg-shift="-0" , Filmbox
-#EXTGRP:Кино
-http://31.131.136.5:9900/Filmbox/index.m3u8
-#EXTINF:0 tvg-name="НСТ" tvg-shift="-0" , НСТ
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9105/nstv/index.m3u8
-#EXTINF:0 tvg-name="FAN" tvg-shift="-0" , FAN
-#EXTGRP:Кино
-http://31.131.136.4:9104/fan/index.m3u8
-
-#EXTINF:0 group-title="TB Newline" tvg-name="ViP SERIAL HD" tvg-shift="-0" , ViP SERIAL HD
-#EXTGRP:Сериалы
-http://31.131.136.5:9108/ViPSERIALHD/index.m3u8
-#EXTINF:0 tvg-name="Amedia 1" tvg-shift="-0" , Amedia 1
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9105/a1/index.m3u8
-#EXTINF:0 tvg-name="Amedia 2" tvg-shift="-0" , Amedia 2
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9105/a2/index.m3u8
-#EXTINF:0 tvg-name="Amedia Hit" tvg-shift="-0" , Amedia Hit
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9105/AMEDIAHIT/index.m3u8
-#EXTINF:0 tvg-name="Amedia Premium" tvg-shift="-0" , Amedia Premium
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9105/AmediaPremium/index.m3u8
-#EXTINF:0 tvg-name="Paramount Comedy" tvg-shift="-0" , Paramount Comedy
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9110/ParamountComedy/index.m3u8
-#EXTINF:0 tvg-name="Sony Turbo" tvg-shift="-0" , Sony Turbo
-#EXTGRP:Кино
-http://tv3.newline.in.ua:9110/SonyTurbo/index.m3u8
-#EXTINF:0 tvg-name="FOX" tvg-shift="-0" , FOX
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9110/fox/index.m3u8
-#EXTINF:0 tvg-name="Fox Life" tvg-shift="-0" , Fox Life
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9105/FoxLife/index.m3u8
-#EXTINF:0 tvg-name="Sony Sci-Fi" tvg-shift="-0" , Sony Sci-Fi
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9110/SonySci-Fi/index.m3u8
-#EXTINF:0 tvg-name="Русский Бестселлер" tvg-shift="-0" , Русский Бестселлер
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9104/rusbestsel/index.m3u8
-#EXTINF:0 tvg-name="КИНОСЕРИЯ" tvg-shift="-0" , КИНОСЕРИЯ
-#EXTGRP:Сериалы
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Комедия" tvg-shift="-0" , Комедия
+http://tv3.newline.in.ua:9105/komedia/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Киноужас" tvg-shift="-0" , Киноужас
+http://tv3.newline.in.ua:9106/kinougas/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="КИНОКОМЕДИЯ" tvg-shift="-0" , КИНОКОМЕДИЯ
+http://tv3.newline.in.ua:9100/kinokomedia/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="КИНОСЕРИЯ" tvg-shift="-0" , КИНОСЕРИЯ
 http://tv3.newline.in.ua:9100/kinoseriya/index.m3u8
-#EXTINF:0 tvg-name="Русский роман" tvg-shift="-0" , Русский роман
-#EXTGRP:Сериалы
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="КИНОСЕМЬЯ" tvg-shift="-0" , КИНОСЕМЬЯ
+http://tv3.newline.in.ua:9100/kinosemya/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="КИНОХИТ" tvg-shift="-0" , КИНОХИТ
+http://tv3.newline.in.ua:9100/kinohit/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="КИНОМИКС" tvg-shift="-0" , КИНОМИКС
+http://tv3.newline.in.ua:9100/kinomix/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Киносвидание" tvg-shift="-0" , Киносвидание
+http://tv3.newline.in.ua:9100/kinosvidanie/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="НАШЕ НОВОЕ КИНО" tvg-shift="-0" , НАШЕ НОВОЕ КИНО
+http://tv3.newline.in.ua:9100/nashe_novoe_kino/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="РОДНОЕ КИНО" tvg-shift="-0" , РОДНОЕ КИНО
+http://tv3.newline.in.ua:9100/rodnoekino/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Любимое Кино" tvg-shift="-0" , Любимое Кино
+http://tv3.newline.in.ua:9105/lubimiykino/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Дом Кино" tvg-shift="-0" , Дом Кино
+http://tv3.newline.in.ua:9105/domkino/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Еврокино" tvg-shift="-0" , Еврокино
+http://tv3.newline.in.ua:9101/evrokino/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Победа" tvg-shift="-0" , Победа
+http://tv3.newline.in.ua:9105/pobeda/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Paramount Channel" tvg-shift="-0" , Paramount Channel
+http://tv3.newline.in.ua:8101/ParamountChannel/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Paramount Comedy" tvg-shift="-0" , Paramount Comedy
+http://tv3.newline.in.ua:8101/ParamountComedy/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="НСТ" tvg-shift="-0" , НСТ
+http://tv3.newline.in.ua:9105/nstv/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name=".RED" tvg-shift="-0" , .RED
+http://tv3.newline.in.ua:9105/red/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name=".black" tvg-shift="-0" , .black
+http://tv3.newline.in.ua:9110/black/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Русский Бестселлер" tvg-shift="-0" , Русский Бестселлер
+http://tv3.newline.in.ua:9104/rusbestsel/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Русский роман" tvg-shift="-0" , Русский роман
 http://tv3.newline.in.ua:9104/rusroman/index.m3u8
-#EXTINF:0 tvg-name="НТВ-ХИТ" tvg-shift="-0" , НТВ-ХИТ
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9104/ntvhittest/index.m3u8
-#EXTINF:0 tvg-name="НТВ сериал" tvg-shift="-0" , НТВ сериал
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9104/ntnserial/index.m3u8
-#EXTINF:0 tvg-name="Мир сериала" tvg-shift="-0" , Мир сериала
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9114/mirseriala/index.m3u8
-#EXTINF:0 tvg-name="Zee TV" tvg-shift="-0" , Zee TV
-#EXTGRP:Сериалы
-http://tv3.newline.in.ua:9104/ZeeTV/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Русский иллюзион" tvg-shift="-0" , Русский иллюзион
+http://tv3.newline.in.ua:9105/rusiluzion/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Русский детектив" tvg-shift="-0" , Русский детектив
+http://tv3.newline.in.ua:9104/rus_detektiv/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Иллюзион+" tvg-shift="-0" , Иллюзион+
+http://tv3.newline.in.ua:9105/illyzion/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Amedia 1" tvg-shift="-0" , Amedia 1
+http://tv3.newline.in.ua:9105/a1/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Amedia 2" tvg-shift="-0" , Amedia 2
+http://tv3.newline.in.ua:9105/a2/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Amedia Hit" tvg-shift="-0" , Amedia Hit
+http://tv3.newline.in.ua:9105/AMEDIAHIT/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Amedia Premium" tvg-shift="-0" , Amedia Premium
+http://tv3.newline.in.ua:9105/AmediaPremium/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Синема" tvg-shift="-0" , Синема
+http://tv3.newline.in.ua:9108/sinema/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Sony Sci-Fi" tvg-shift="-0" , Sony Sci-Fi
+http://tv3.newline.in.ua:9110/SonySci-Fi/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Ностальгия" tvg-shift="-0" , Ностальгия
+http://tv3.newline.in.ua:9103/nostalgiya/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="FOX" tvg-shift="-0" , FOX
+http://tv3.newline.in.ua:9110/fox/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Fox Life" tvg-shift="-0" , Fox Life
+http://tv3.newline.in.ua:9105/FoxLife/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Hollywood" tvg-shift="-0" , Hollywood
+http://tv3.newline.in.ua:9105/Hollywood/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="TV XXI" tvg-shift="-0" , TV XXI
+http://tv3.newline.in.ua:9108/tvXXI/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="START Air" tvg-shift="-0" , START Air
+http://tv3.newline.in.ua:9104/StartAir/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="START World" tvg-shift="-0" , START World
+http://tv3.newline.in.ua:9104/STARTWorld/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Filmbox" tvg-shift="-0" , Filmbox
+http://tv3.newline.in.ua:9109/Filmbox/index.m3u8
+#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Мир сериала" tvg-shift="-0" , Мир сериала
+http://tv3.newline.in.ua:9105/mirseriala/index.m3u8
 
-#EXTINF:0 tvg-name="Футбол 1" tvg-shift="-0" , Футбол 1
-#EXTGRP:Спортивные
-http://tv.newline.in.ua:8686/futbol1
-#EXTINF:0 tvg-name="Футбол 2" tvg-shift="-0" , Футбол 2
-#EXTGRP:Спортивные
-http://tv.newline.in.ua:8686/futbol2
-#EXTINF:0 tvg-name="МАТЧ! ФУТБОЛ 1" tvg-shift="-0" , МАТЧ! ФУТБОЛ 1
-#EXTGRP:Спортивные
-http://tv4.newline.in.ua:9106/futbol1/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ! ФУТБОЛ 2" tvg-shift="-0" , МАТЧ! ФУТБОЛ 2
-#EXTGRP:Спортивные
-http://tv4.newline.in.ua:9106/futbol2/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ! ФУТБОЛ 3" tvg-shift="-0" , МАТЧ! ФУТБОЛ 3
-#EXTGRP:Спортивные
-http://tv4.newline.in.ua:9106/futbol3/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ! БОЕЦ" tvg-shift="-0" , МАТЧ! БОЕЦ
-#EXTGRP:Спортивные
-http://tv4.newline.in.ua:9106/boetc/index.m3u8
-#EXTINF:0 tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
-#EXTGRP:Спортивные
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
 http://tv4.newline.in.ua:9104/boks/index.m3u8
-#EXTINF:0 tvg-name="Fightbox" tvg-shift="-0" , Fightbox
-#EXTGRP:Спортивные
-http://31.131.136.5:9900/Fightbox/index.m3u8
-#EXTINF:0 tvg-name="M-1 Global" tvg-shift="-0" , M-1 Global
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/m1/index.m3u8
-#EXTINF:0 tvg-name="Мир Баскетбола" tvg-shift="-0" , Мир Баскетбола
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/Mir_Basketbola/index.m3u8
-#EXTINF:0 tvg-name="Телеканал КХЛ" tvg-shift="-0" , Телеканал КХЛ
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/khl/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ!" tvg-shift="-0" , МАТЧ!
-#EXTGRP:Спортивные
-http://31.131.136.4:9115/match/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ! АРЕНА" tvg-shift="-0" , МАТЧ! АРЕНА
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/arena/index.m3u8
-#EXTINF:0 tvg-name="МАТЧ! ИГРА" tvg-shift="-0" , МАТЧ! ИГРА
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/igra/index.m3u8
-#EXTINF:0 tvg-name="Viasat Sport" tvg-shift="-0" , Viasat Sport
-#EXTGRP:Спортивные
-http://31.131.136.4:9110/ViasatSport/index.m3u8
-#EXTINF:0 tvg-name="Eurosport 1" tvg-shift="-0" , Eurosport 1
-#EXTGRP:Спортивные
-http://31.131.136.4:9106/evrosport1/index.m3u8
-#EXTINF:0 tvg-name="Eurosport 2 HD" tvg-shift="-0" , Eurosport 2 HD
-#EXTGRP:Спортивные
-http://31.131.136.4:9112/evrosport2/index.m3u8
-#EXTINF:0 tvg-name="Моторспорт ТВ" tvg-shift="-0" , Моторспорт ТВ
-#EXTGRP:Спортивные
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ!" tvg-shift="-0" , МАТЧ!
+http://tv4.newline.in.ua:9115/match/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! ПРЕМЬЕР" tvg-shift="-0" , МАТЧ! ПРЕМЬЕР
+http://tv4.newline.in.ua:9106/match_premer/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! АРЕНА" tvg-shift="-0" , МАТЧ! АРЕНА
+http://tv4.newline.in.ua:9106/arena/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! БОЕЦ" tvg-shift="-0" , МАТЧ! БОЕЦ
+http://tv4.newline.in.ua:9106/boetc/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! ИГРА" tvg-shift="-0" , МАТЧ! ИГРА
+http://tv4.newline.in.ua:9106/igra/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! СТРАНА" tvg-shift="-0" , МАТЧ! СТРАНА
+http://tv4.newline.in.ua:9106/nashsport/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! ФУТБОЛ 1" tvg-shift="-0" , МАТЧ! ФУТБОЛ 1
+http://tv4.newline.in.ua:9106/futbol1/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! ФУТБОЛ 2" tvg-shift="-0" , МАТЧ! ФУТБОЛ 2
+http://tv4.newline.in.ua:9106/futbol2/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="МАТЧ! ФУТБОЛ 3" tvg-shift="-0" , МАТЧ! ФУТБОЛ 3
+http://tv4.newline.in.ua:9106/futbol3/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Мир Баскетбола" tvg-shift="-0" , Мир Баскетбола
+http://tv4.newline.in.ua:9106/Mir_Basketbola/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Viasat Sport" tvg-shift="-0" , Viasat Sport
+http://tv4.newline.in.ua:9110/ViasatSport/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Моторспорт ТВ" tvg-shift="-0" , Моторспорт ТВ
 http://tv4.newline.in.ua:9110/motosport/index.m3u8
-#EXTINF:0 tvg-name="FlixSnip" tvg-shift="-0" , FlixSnip
-#EXTGRP:Спортивные
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="FlixSnip" tvg-shift="-0" , FlixSnip
 http://tv4.newline.in.ua:9110/FlixSnip/index.m3u8
-#EXTINF:0 tvg-name="NHK WORLD-JAPAN" tvg-shift="-0" , NHK WORLD-JAPAN
-#EXTGRP:Спортивные
-http://tv4.newline.in.ua:9114/nhkworld/index.m3u8
-#EXTINF:0 tvg-name="Extreme Sports" tvg-shift="-0" , Extreme Sports
-#EXTGRP:Спортивные
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Телеканал КХЛ" tvg-shift="-0" , Телеканал КХЛ
+http://tv4.newline.in.ua:9106/khl/index.m3u8
+#EXTINF:0  group_id="4" group-title="Спорт" tvg-name="Extreme Sports" tvg-shift="-0" , Extreme Sports
 http://tv4.newline.in.ua:9110/ExtremeSports/index.m3u8
 
-#EXTINF:0 tvg-name="Docubox" tvg-shift="-0" , Docubox
-#EXTGRP:Наука
-http://31.131.136.5:9900/Docubox/index.m3u8
-#EXTINF:0 tvg-name="Animal Planet" tvg-shift="-0" , Animal Planet
-#EXTGRP:Наука
-http://31.131.136.4:9105/AnimalPlanet/index.m3u8
-#EXTINF:0 tvg-name="Discovery Channel" tvg-shift="-0" , Discovery Channel
-#EXTGRP:Наука
-http://31.131.136.4:9105/DiscoveryChanne/index.m3u8
-#EXTINF:0 tvg-name="DiscoveryScience" tvg-shift="-0" , DiscoveryScience
-#EXTGRP:Наука
-http://31.131.136.4:9114/DiscoveryScience/index.m3u8
-#EXTINF:0 tvg-name="National Geographic" tvg-shift="-0" , National Geographic
-#EXTGRP:Наука
-http://31.131.136.4:9105/NationalGeographic/index.m3u8
-#EXTINF:0 tvg-name="Nat Geo Wild" tvg-shift="-0" , Nat Geo Wild
-#EXTGRP:Наука
-http://31.131.136.4:9110/NatGeoWild/index.m3u8
-#EXTINF:0 tvg-name="Viasat Explore" tvg-shift="-0" , Viasat Explore
-#EXTGRP:Наука
-http://31.131.136.4:9110/ViasatExplore/index.m3u8
-#EXTINF:0 tvg-name="Viasat History" tvg-shift="-0" , Viasat History
-#EXTGRP:Наука
-http://31.131.136.4:9110/ViasatHistory/index.m3u8
-#EXTINF:0 tvg-name="Viasat Nature" tvg-shift="-0" , Viasat Nature
-#EXTGRP:Наука
-http://31.131.136.4:9110/ViasatNature/index.m3u8
-#EXTINF:0 tvg-name="Телеканал Да Винчи" tvg-shift="-0" , Телеканал Да Винчи
-#EXTGRP:Наука
-http://31.131.136.4:9110/davinche/index.m3u8
-#EXTINF:0 tvg-name="Авто плюс" tvg-shift="-0" , Авто плюс
-#EXTGRP:Наука
-http://31.131.136.4:9100/avtoplus/index.m3u8
-#EXTINF:0 tvg-name="История+" tvg-shift="-0" , История+
-#EXTGRP:Наука
-http://31.131.136.4:9101/istor2/index.m3u8
-#EXTINF:0 tvg-name="Outdoor Channel" tvg-shift="-0" , Outdoor Channel
-#EXTGRP:Наука
-http://31.131.136.4:9101/Outdoor_Channel/index.m3u8
-#EXTINF:0 tvg-name="Доктор" tvg-shift="-0" , Доктор
-#EXTGRP:Наука
-http://31.131.136.4:9106/doctor/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="СТС KidS" tvg-shift="-0" , СТС KidS
+http://tv5.newline.in.ua:9116/ctckids/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Канал Disney" tvg-shift="-0" , Канал Disney
+http://tv5.newline.in.ua:9106/Disney/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Карусель" tvg-shift="-0" , Карусель
+http://tv5.newline.in.ua:9114/karusel/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Карусель +2" tvg-shift="-0" , Карусель +2
+http://tv5.newline.in.ua:9105/karusel2/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Gulli Girl" tvg-shift="-0" , Gulli Girl
+http://tv5.newline.in.ua:9101/GulliGirl/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Мультиландия" tvg-shift="-0" , Мультиландия
+http://tv5.newline.in.ua:9104/multilandiya/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="В гостях у сказки" tvg-shift="-0" , В гостях у сказки
+http://tv5.newline.in.ua:9104/vgostuskaz/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Мульт" tvg-shift="-0" , Мульт
+http://tv5.newline.in.ua:9104/mult/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="TiJi" tvg-shift="-0" , TiJi
+http://tv5.newline.in.ua:9101/tiji/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="DuckTV" tvg-shift="-0" , DuckTV
+http://tv5.newline.in.ua:9101/ducktv/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Уникум" tvg-shift="-0" , Уникум
+http://tv5.newline.in.ua:9114/unikum/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Мультимузыка" tvg-shift="-0" , Мультимузыка
+http://tv5.newline.in.ua:9104/multimuz/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="2x2" tvg-shift="-0" , 2x2
+http://tv5.newline.in.ua:9101/2X2/index.m3u8
+#EXTINF:0  group_id="5" group-title="Детский" tvg-name="Ani" tvg-shift="-0" , Ani
+http://tv5.newline.in.ua:9104/ani/index.m3u8
 
-#EXTINF:0 tvg-name="Европа Плюс ТВ" tvg-shift="-0" , Европа Плюс ТВ
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="ТНТ Music" tvg-shift="-0" , ТНТ Music
+http://tv6.newline.in.ua:9102/TNTMusic/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Mezzo Live HD" tvg-shift="-0" , Mezzo Live HD
+http://tv6.newline.in.ua:9117/MezzoLiveHD/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="BRIDGE DELUXE" tvg-shift="-0" , BRIDGE DELUXE
+http://tv6.newline.in.ua:9118/BRIDGEHD/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Шансон ТВ" tvg-shift="-0" , Шансон ТВ
+http://tv6.newline.in.ua:9107/shansontv/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Европа Плюс ТВ" tvg-shift="-0" , Европа Плюс ТВ
 http://tv6.newline.in.ua:9100/evropaplustv/index.m3u8
-#EXTINF:0 tvg-name="RU TV" tvg-shift="-0" , RU TV
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="RU TV" tvg-shift="-0" , RU TV
 http://tv6.newline.in.ua:9101/ru_tv/index.m3u8
-#EXTINF:0 tvg-name="Ля-минор ТВ" tvg-shift="-0" , Ля-минор ТВ
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="Ля-минор ТВ" tvg-shift="-0" , Ля-минор ТВ
 http://tv6.newline.in.ua:9100/lya_minor/index.m3u8
-#EXTINF:0 tvg-name="MTV" tvg-shift="-0" , MTV
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9105/mtv/index.m3u8
-#EXTINF:0 tvg-name="MTV Rocks" tvg-shift="-0" , MTV Rocks
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9105/MTVRocks/index.m3u8
-#EXTINF:0 tvg-name="MCM top" tvg-shift="-0" , MCM top
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="Cmusic" tvg-shift="-0" , Cmusic
+http://tv6.newline.in.ua:9108/CMusic/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="MCM top" tvg-shift="-0" , MCM top
 http://tv6.newline.in.ua:9101/MCM_Top/index.m3u8
-#EXTINF:0 tvg-name="VH1 Classic" tvg-shift="-0" , VH1 Classic
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9105/VH1Classic/index.m3u8
-#EXTINF:0 tvg-name="VH1 European" tvg-shift="-0" , VH1 European
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9105/VH1European/index.m3u8
-#EXTINF:0 tvg-name="Музыка Первого" tvg-shift="-0" , Музыка Первого
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="Музыка Первого" tvg-shift="-0" , Музыка Первого
 http://tv6.newline.in.ua:9105/muzpervogo/index.m3u8
-#EXTINF:0 tvg-name="МУЗ ТВ" tvg-shift="-0" , МУЗ ТВ
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9106/muz/index.m3u8
-#EXTINF:0 tvg-name="Bridge TV" tvg-shift="-0" , Bridge TV
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9101/bridgetv/index.m3u8
-#EXTINF:0 tvg-name="BRIDGE TV Русский Хит" tvg-shift="-0" , BRIDGE TV Русский Хит
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9101/bridgetvrus/index.m3u8
-#EXTINF:0 tvg-name="THT MUSIC" tvg-shift="-0" , THT MUSIC
-#EXTGRP:Музыка
-http://tv6.newline.in.ua:9106/THTMUSIC/index.m3u8
-#EXTINF:0 tvg-shift="-0" , Танцуй
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="МУЗ ТВ" tvg-shift="-0" , МУЗ ТВ
+http://tv6.newline.in.ua:9114/muz/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Танцуй" tvg-shift="-0" , Танцуй
 http://tv6.newline.in.ua:9101/dance/index.m3u8
-#EXTINF:0 tvg-shift="-0" , Mezzo
-#EXTGRP:Музыка
+#EXTINF:0 group-title="Музыка" tvg-name="Bridge TV" tvg-shift="-0" , Bridge TV
+http://tv6.newline.in.ua:9101/bridgetv/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="BRIDGE TV Русский Хит" tvg-shift="-0" , BRIDGE TV Русский Хит
+http://tv6.newline.in.ua:9101/bridgetvrus/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Classic Music" tvg-shift="-0" , Classic Music
+http://tv6.newline.in.ua:9114/ClassicMusic/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="THT MUSIC" tvg-shift="-0" , THT MUSIC
+http://tv6.newline.in.ua:9106/THTMUSIC/index.m3u8
+#EXTINF:0 group-title="Музыка" tvg-name="Mezzo" tvg-shift="-0" , Mezzo
 http://tv6.newline.in.ua:9110/mezzo/index.m3u8
-
-#EXTINF:0 tvg-name="Мультимузыка" tvg-shift="-0" , Детскиеимузыка
-#EXTGRP:Детские
-http://31.131.136.4:9104/multimuz/index.m3u8
-#EXTINF:0 tvg-name="Cartoon Network" tvg-shift="-0" , Cartoon Network
-#EXTGRP:Детские
-http://31.131.136.4:9105/CartoonNetwork/index.m3u8
-#EXTINF:0 tvg-name="Карусель" tvg-shift="-0" , Карусель
-#EXTGRP:Детские
-http://31.131.136.4:9105/karusel/index.m3u8
-#EXTINF:0 tvg-name="Карусель +2" tvg-shift="-0" , Карусель +2
-#EXTGRP:Детские
-http://31.131.136.4:9104/karusel2/index.m3u8
-#EXTINF:0 tvg-name="Nick Jr." tvg-shift="-0" , Nick Jr.
-#EXTGRP:Детские
-http://31.131.136.4:9105/NickJr/index.m3u8
-#EXTINF:0 tvg-name="JimJam" tvg-shift="-0" , JimJam
-#EXTGRP:Детские
-http://31.131.136.4:9105/JimJam/index.m3u8
-#EXTINF:0 tvg-name="Nickelodeon" tvg-shift="-0" , Nickelodeon
-#EXTGRP:Детские
-http://31.131.136.4:9105/Nickelodeon/index.m3u8
-#EXTINF:0 tvg-name="Мульт" tvg-shift="-0" , Мульт
-#EXTGRP:Детские
-http://31.131.136.4:9104/mult/index.m3u8
-#EXTINF:0 tvg-name="Канал Disney" tvg-shift="-0" , Канал Disney
-#EXTGRP:Детские
-http://31.131.136.4:9106/Disney/index.m3u8
-#EXTINF:0 tvg-name="2x2" tvg-shift="-0" , 2x2
-#EXTGRP:Детские
-http://31.131.136.4:9101/2X2/index.m3u8
-#EXTINF:0 tvg-name="В гостях у сказки" tvg-shift="-0" , В гостях у сказки
-#EXTGRP:Детские
-http://31.131.136.4:9104/vgostuskaz/index.m3u8
-#EXTINF:0 tvg-name="Boomerang" tvg-shift="-0" , Boomerang
-#EXTGRP:Детские
-http://31.131.136.4:9105/Boomerang/index.m3u8
-#EXTINF:0 tvg-name="Мультиландия" tvg-shift="-0" , Мультиландия
-#EXTGRP:Детские
-http://31.131.136.4:9104/multilandiya/index.m3u8
-
-#EXTINF:0 tvg-name="Кухня ТВ" tvg-shift="-0" , Кухня ТВ
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9100/kuhnyaTV/index.m3u8
-#EXTINF:0 tvg-name="Food Network" tvg-shift="-0" , Food Network
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9104/FoodNetwork/index.m3u8
-#EXTINF:0 tvg-name="Мама" tvg-shift="-0" , Мама
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9110/mama/index.m3u8
-#EXTINF:0 tvg-name="365 дней" tvg-shift="-0" , 365 дней
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9100/365/index.m3u8
-#EXTINF:0 tvg-name="Диалоги о рыбалке" tvg-shift="-0" , Диалоги о рыбалке
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9104/ribalka/index.m3u8
-#EXTINF:0 tvg-name="Дикая рыбалка HD" tvg-shift="-0" , Дикая рыбалка HD
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.5:9700/Dikaya_ribalka_HD/index.m3u8
-#EXTINF:0 tvg-name="Дикая охота HD" tvg-shift="-0" , Дикая охота HD
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.5:9700/Dikaya_ohota_HD/index.m3u8
-#EXTINF:0 tvg-name="Охота и рыбалка" tvg-shift="-0" , Охота и рыбалка
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9101/ohotairibalka/index.m3u8
-#EXTINF:0 tvg-name="Жара" tvg-shift="-0" , Жара
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9100/jara/index.m3u8
-#EXTINF:0 tvg-name="Timeless Dizi Channel" tvg-shift="-0" , Timeless Dizi Channel
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.5:9900/TimelessDiziChannel/index.m3u8
-#EXTINF:0 tvg-name="Fastnfunbox" tvg-shift="-0" , Fastnfunbox
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.5:9900/Fastnfunbox/index.m3u8
-#EXTINF:0 tvg-name="Глазами туриста HD" tvg-shift="-0" , Глазами туриста HD
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.5:9800/turistaveHD/index.m3u8
-#EXTINF:0 tvg-name="HGTV" tvg-shift="-0" , HGTV
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9104/HGTV/index.m3u8
-#EXTINF:0 tvg-name="Усадьба-ТВ" tvg-shift="-0" , Усадьба-ТВ
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9110/usadba
-#EXTINF:0 tvg-name="ЖИВИ!" tvg-shift="-0" , ЖИВИ!
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9104/live/index.m3u8
-#EXTINF:0 tvg-name="ТЕЛЕКАФЕ" tvg-shift="-0" , ТЕЛЕКАФЕ
-#EXTGRP:Инфоразвлекательные
-http://31.131.136.4:9105/telekafe/index.m3u8
