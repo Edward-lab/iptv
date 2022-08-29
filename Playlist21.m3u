@@ -7,8 +7,6 @@ http://31.131.136.4:9100/jara/index.m3u8
 http://31.131.136.4:9114/sts/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="СТС Love" tvg-shift="-0" , СТС Love
 http://31.131.136.4:9114/stslove/index.m3u8
-#EXTINF:0 group-title="TB Newline" tvg-name="Домашний" tvg-shift="-0" , Домашний
-http://31.131.136.4:9114/Domashniy/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="ЧЕ" tvg-shift="-0" , ЧЕ
 http://31.131.136.4:9114/Che/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="Пятница" tvg-shift="-0" , Пятница
