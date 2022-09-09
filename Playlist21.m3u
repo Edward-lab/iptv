@@ -60,8 +60,6 @@ http://tv3.newline.in.ua:9105/lubimiykino/index.m3u8
 http://tv3.newline.in.ua:9105/domkino/index.m3u8
 #EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Еврокино" tvg-shift="-0" , Еврокино
 http://tv3.newline.in.ua:9101/evrokino/index.m3u8
-#EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Победа" tvg-shift="-0" , Победа
-http://tv3.newline.in.ua:9105/pobeda/index.m3u8
 #EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Paramount Channel" tvg-shift="-0" , Paramount Channel
 http://tv3.newline.in.ua:8101/ParamountChannel/index.m3u8
 #EXTINF:0  group_id="3" group-title="Фильмы" tvg-name="Paramount Comedy" tvg-shift="-0" , Paramount Comedy
