@@ -1,4 +1,9 @@
 #EXTM3U url-tvg="http://exstream.net.ua/iptv/jtv.zip,https://iptvx.one/EPG_LITE" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
+#EXTINF:0 tvg-name="UA" tvg-shift="-0" , UA
+https://top-radio.ru/ajax
+#EXTINF:0 tvg-name="avtoradio" tvg-shift="-0" , avtoradio
+https://cast.radiogroup.com.ua/avtoradio
+
 #EXTINF:0 group-title="TB Newline" tvg-name="ТНТ" tvg-shift="-0" , ТНТ
 http://31.131.136.4:9114/tnt/index.m3u8
 #EXTINF:0 group-title="TB Newline" tvg-name="Жара" tvg-shift="-0" , Жара
