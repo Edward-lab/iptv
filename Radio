@@ -1,0 +1,3 @@
+#EXTM3U url-tvg="http://exstream.net.ua/iptv/jtv.zip,https://iptvx.one/EPG_LITE" m3uautoload=1 cache=1024 deinterlace=1 tvg-shift=0
+#EXTINF:0 tvg-name="avtoradio" tvg-shift="-0" , avtoradio
+https://cast.radiogroup.com.ua/avtoradio
