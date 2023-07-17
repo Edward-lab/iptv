@@ -9,15 +9,3 @@ https://cast.radiogroup.com.ua/radiopyatnica
 http://live.uafm.org:9001/uafm
 #EXTINF:0 tvg-name="Lounge Fm" tvg-shift="-0" , Lounge Fm
 https://cast.radiogroup.com.ua/loungefm
-#EXTINF:0 tvg-name="LoungeFM - Chill Out" tvg-shift="-0" , LoungeFM - Chill Out
-https://cast.radiogroup.com.ua/chillout320
-#EXTINF:0 tvg-name="Lounge Fm" tvg-shift="-0" , Lounge Fm - тераса
-https://cast.radiogroup.com.ua/terrace320
-#EXTINF:0 tvg-name="Lounge Fm" tvg-shift="-0" , Lounge Fm - acoustic
-https://cast.radiogroup.com.ua/acoustic320
-#EXTINF:0 tvg-name="Best Fm" tvg-shift="-0" , Best Fm
-http://cast.radiogroup.com.ua:8000/bestfm
-#EXTINF:0 tvg-name="Perec FM" tvg-shift="-0" , Perec FM
-https://cast.radiogroup.com.ua/perecfm
-#EXTINF:0 tvg-name="UA" tvg-shift="-0" , UA
-https://cast.radiogroup.com.ua/disko_pt320
