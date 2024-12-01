@@ -129,7 +129,7 @@ http://31.131.136.4:9110/davinche/index.m3u8
 http://31.131.136.4:9101/my_planet/index.m3u8
 #EXTINF:0  group_id="4" group-title="Наука" tvg-name="Живая Планета" tvg-shift="-0" , Живая Планета
 http://31.131.136.4:9103/juvplaneta/index.m3u8
-#EXTINF:0  group_id="4" group-title="Наука" tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-shift="-0"  ДОМАШНИЕ ЖИВОТНЫЕ
+#EXTINF:0  group_id="4" group-title="Наука" tvg-name="ДОМАШНИЕ ЖИВОТНЫЕ" tvg-shift="-0" , ДОМАШНИЕ ЖИВОТНЫЕ
 http://31.131.136.4:9110/domjivotniy/index.m3u8
 
 #EXTINF:0  group_id="5" group-title="Спорт" tvg-name="Бокс ТВ" tvg-shift="-0" , Бокс ТВ
